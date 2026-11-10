@@ -8,7 +8,8 @@ Questo repository contiene SOLO i file che l'app scarica. Si aggiorna con PUBBLI
 | `nofake/nofake27.json` | elenco dei No Fake: versione, indirizzo e impronta (sha256) di ogni zip |
 | release `nofake` | gli zip dei No Fake (FMScout, Sortitoutsi) |
 | `app/` + release `app` | l'app (piu' avanti) |
-| `skin/` + release `skin` | la skin BeppEmre V3 (piu' avanti) |
+| `skin/skin27.json` + release `skin` | la skin BeppEmre V3: bundle, viste, licenze dei caratteri (elenco con le impronte sha256) |
 | `plugin/` + release `plugin` | i plugin FM27 (piu' avanti) |
 
 I No Fake sono di FMScout (fmscout.com) e Sortitoutsi (sortitoutsi.net): istruzioni e novita' sui loro siti.
+La skin BeppEmre V3 e' di BeppEmre; i caratteri hanno la licenza SIL OFL (testi in licenze.zip).
