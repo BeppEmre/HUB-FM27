@@ -1,0 +1,45 @@
+{
+ "formato": 1,
+ "aggiornato": "11/11/2026",
+ "cartella": "BepInEx/plugins/BeppEmre",
+ "comune": {
+  "versione": "2026.11.11",
+  "pacchetto": {
+   "asset": "2e1934c9fe09_comune.zip",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/2e1934c9fe09_comune.zip",
+   "dimensione": 1002,
+   "sha256": "2e1934c9fe09356b183b9b53201e669c9a9140a73703fbff36210029fc6f6499"
+  },
+  "file": {
+   "Comune 2/adattatori/fm27.json": "e164ece5311ee02f749d2810b346eaa53c92df954c2bc9b8fa087c22ea2151fc"
+  }
+ },
+ "plugin": [
+  {
+   "id": "plugin00",
+   "numero": 0,
+   "nome": "Banner YouTube",
+   "cartella": "FM27 - Plugin 00 - Banner",
+   "versione": "1.0.0",
+   "descrizione": "",
+   "facoltativo": false,
+   "automatico": true,
+   "data": "11/11/2026",
+   "gioco": {
+    "steamBuild": "26385295"
+   },
+   "pacchetto": {
+    "asset": "e1a286faefe6_plugin00.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/e1a286faefe6_plugin00.zip",
+    "dimensione": 65367,
+    "sha256": "e1a286faefe689e8ff4b203cfdb121c25dff10fe08fd3bfa8aea24d7ca16330e"
+   },
+   "file": {
+    "FM27 - Plugin 00 - Banner/BeppEmre-FM27-Plugin00-Banner.dll": "1f4692e0024b16abeaac704ed11a44e791682d1887e8494ee638946c1ac16dde",
+    "FM27 - Plugin 00 - Banner/plugin.json": "e4f2064f2865ee14eca71de8e537ff9682a4415d584fa7048c8d1c351d58edc5",
+    "FM27 - Plugin 00 - Banner/LEGGIMI.txt": "80144c4c6a61433c2806b39b9402661e92b6bc6b40ca0393d078587729369000"
+   },
+   "anteprime": []
+  }
+ ]
+}
