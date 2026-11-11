@@ -40,6 +40,32 @@
     "FM27 - Plugin 00 - Banner/LEGGIMI.txt": "80144c4c6a61433c2806b39b9402661e92b6bc6b40ca0393d078587729369000"
    },
    "anteprime": []
+  },
+  {
+   "id": "plugin01",
+   "numero": 1,
+   "nome": "Volto dell'allenatore",
+   "cartella": "FM27 - Plugin 01 - Volto",
+   "versione": "1.0.0",
+   "descrizione": "La tua foto al posto del volto del tuo allenatore. Si vede nel tuo profilo, in Società > Profilo e dove compare il tuo primo piano. La foto la prepari qui sopra.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "11/11/2026",
+   "gioco": {
+    "steamBuild": "26385295"
+   },
+   "pacchetto": {
+    "asset": "862d6303770d_plugin01.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/862d6303770d_plugin01.zip",
+    "dimensione": 28324,
+    "sha256": "862d6303770d66e4676623f724e0a77e5d1b6adeb7201ceb558cc9914f440dc9"
+   },
+   "file": {
+    "FM27 - Plugin 01 - Volto/BeppEmre-FM27-Plugin01-Volto.dll": "9ad11b76cfc212bd6699a40e4d7909d266d324d9d867f4a171ebcb1db87eb6f5",
+    "FM27 - Plugin 01 - Volto/plugin.json": "ee34b96335db2cf424334bce1fe93bd3ffb95b1712611ac3c0b9c6bacd7ff8a1",
+    "FM27 - Plugin 01 - Volto/LEGGIMI.txt": "e104ecb98d7968d7792b90a98a9002b8d72b55476855dc7128e787e1908a5175"
+   },
+   "anteprime": []
   }
  ]
 }
