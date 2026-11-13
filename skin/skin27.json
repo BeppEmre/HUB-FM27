@@ -1,13 +1,20 @@
 {
  "formato": 1,
  "skin": "BeppEmre Skin V 1.0",
- "versione": "1.1",
- "data": "12/11/2026",
+ "versione": "1.2",
+ "data": "13/11/2026",
  "gioco": {
   "versione": "27.0.0",
   "steamBuild": "26577676"
  },
  "file": [
+  {
+   "nome": "art-characters-shared-player_assets_all.bundle",
+   "dimensione": 5889329,
+   "sha256": "c21db40ad389114633b170d3db54ba97b4f1ce6a795277c1d9da46878d073082",
+   "asset": "c21db40ad389_art-characters-shared-player_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c21db40ad389_art-characters-shared-player_assets_all.bundle"
+  },
   {
    "nome": "ui-backgrounds_assets_.bundle",
    "dimensione": 51252351,
@@ -17,10 +24,10 @@
   },
   {
    "nome": "ui-backgrounds_assets_common.bundle",
-   "dimensione": 74601104,
-   "sha256": "ca92e3ba0db57268fa563d9f84b1f55eca169c66dd84e48591f0dc04b5e6ddd4",
-   "asset": "ca92e3ba0db5_ui-backgrounds_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/ca92e3ba0db5_ui-backgrounds_assets_common.bundle"
+   "dimensione": 77754458,
+   "sha256": "220f2c11a9568da6523aaa59d4ecb2af9f39c2ba4ef10c91d8f8a49502c5a23d",
+   "asset": "220f2c11a956_ui-backgrounds_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/220f2c11a956_ui-backgrounds_assets_common.bundle"
   },
   {
    "nome": "ui-datacollections_assets_all.bundle",
@@ -87,10 +94,10 @@
   },
   {
    "nome": "ui-mainmenu-assets_assets_all.bundle",
-   "dimensione": 4870362,
-   "sha256": "07142382c67f7e4042141f901bff2daf472dd773848042e3f8f84e789c6044f2",
-   "asset": "07142382c67f_ui-mainmenu-assets_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/07142382c67f_ui-mainmenu-assets_assets_all.bundle"
+   "dimensione": 4901552,
+   "sha256": "40d4883eac8ddc82c71b8326b19c49a416ef30736059f054569e511b0482b203",
+   "asset": "40d4883eac8d_ui-mainmenu-assets_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/40d4883eac8d_ui-mainmenu-assets_assets_all.bundle"
   },
   {
    "nome": "ui-styles_assets_common.bundle",
@@ -101,10 +108,10 @@
   },
   {
    "nome": "ui-styles_assets_default.bundle",
-   "dimensione": 3944472,
-   "sha256": "cc4ecda5e81c7e91a0a963a5c803e60305bcfd53a7d8584d0b215f02dfdef670",
-   "asset": "cc4ecda5e81c_ui-styles_assets_default.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/cc4ecda5e81c_ui-styles_assets_default.bundle"
+   "dimensione": 4684993,
+   "sha256": "260cd3d339e17795ea681aa2cdb7dedcf972b41ab81d55354e0aeb13d853268c",
+   "asset": "260cd3d339e1_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/260cd3d339e1_ui-styles_assets_default.bundle"
   },
   {
    "nome": "ui-tablefactories_assets_all.bundle",
@@ -143,17 +150,17 @@
   },
   {
    "nome": "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "dimensione": 9521409,
-   "sha256": "3becc92bc8b51e3070ccd2aae725e708203f3d25decbb39fc85c205c8888bffd",
-   "asset": "3becc92bc8b5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/3becc92bc8b5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
+   "dimensione": 9517325,
+   "sha256": "55fcbebf7c000ff335b3e2bd19da136e9f30f55894a9b006b6058dde0d00a094",
+   "asset": "55fcbebf7c00_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/55fcbebf7c00_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
-   "dimensione": 3794657,
-   "sha256": "045c2a0f5d38e47dcc6efb481fa35eddf46eb39e4eeba321e2004a0ba4caea3a",
-   "asset": "045c2a0f5d38_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/045c2a0f5d38_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle"
+   "dimensione": 3794695,
+   "sha256": "59f95cd19cef450c1bf070662121b85e19197a5a68dea6f1dcfcaca784b4e0e4",
+   "asset": "59f95cd19cef_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/59f95cd19cef_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle",
@@ -164,10 +171,10 @@
   },
   {
    "nome": "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
-   "dimensione": 148270,
-   "sha256": "06523f34cea1e9eb23b10cc9c1dfea34831172d6ef363c1baa37c0594b3f3796",
-   "asset": "06523f34cea1_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/06523f34cea1_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle"
+   "dimensione": 149157,
+   "sha256": "02a5e28b0a443096d84c094564ff4740dc794734b4551b2e12752856acf3ab46",
+   "asset": "02a5e28b0a44_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/02a5e28b0a44_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
@@ -367,7 +374,7 @@
   "ui-styles_assets_2x.bundle": "04e5c016225efa25024c3275f7a657697cf98b2ecc657f21890fbaafe8605900",
   "ui-styles_assets_3x.bundle": "f30f48b1b0e9e459497faca4ab1f91db7e6badaa38e5c4309c63b5d6fd813500",
   "ui-styles_assets_4x.bundle": "34aa84362d9c71dbbc8a46ff73797f2fa2238179314aeea8ed856e22b9987d6c",
-  "ui-styles_assets_common.bundle": "c2027b1caa2318a23a06c1d28e403d5640fa172f90ead98031a8ece35c72211c",
+  "ui-styles_assets_common.bundle": "21a642f5728aa3f8fff6d5b8ea55e0a30718c2b998eb107a20e10c8ead64b3eb",
   "ui-styles_assets_default.bundle": "28d4f7195f2056e88011715a3695e6569fec8ce9d309cbe1f2ed6b6de17d2eee",
   "ui-styles_assets_match.bundle": "ff0ea6076e56bbc076f98d8b8303425be4563b3133c2537a807402e0a52dedb7",
   "ui-tablefactories_assets_all.bundle": "c2e34ebdc39da4a3acb856e994e9eb0effbc0dc7e966a3567c84e4bba646cd3b",
@@ -381,6 +388,7 @@
   "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle": "e0bf606b0f66c8376eac76dcb00b728d8474f66e5acb40afdc71a88d87dba00b",
   "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle": "dfee9f861ede9f72f464f0abec31aad38caa30924c2db88343cb23ca3d5afba4",
   "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle": "cf7f5e6b25b45668da7db634d95a5a785e8ce601f11a2b5e566a3ccc54e8f7b2",
+  "art-characters-shared-player_assets_all.bundle": "c00f7ad50bff41a189a6d9010125391e8a2dd45522925a33cbddd362c4c27413",
   "videos-pc_assets_all.bundle": "0a02b0a2662b7d3fe395f19ceb637ad87d6aec5bfbff4e2a8739e23396332d34"
  },
  "contatore": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/contatore.txt",
