@@ -20,7 +20,7 @@
    "numero": 0,
    "nome": "Banner YouTube",
    "cartella": "FM27 - Plugin 00 - Banner",
-   "versione": "1.0.4",
+   "versione": "1.0.5",
    "descrizione": "",
    "facoltativo": false,
    "automatico": true,
@@ -29,16 +29,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "28a18dd75876_plugin00.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/28a18dd75876_plugin00.zip",
-    "dimensione": 67050,
-    "sha256": "28a18dd75876f47c18e079cbcbbdf8a95108a89dd5f94e1ab73a9c3784df6784"
+    "asset": "93fedc0affc3_plugin00.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/93fedc0affc3_plugin00.zip",
+    "dimensione": 67048,
+    "sha256": "93fedc0affc30713491c79ff5282edb26df77992321d7c25b31476fb0951096e"
    },
    "file": {
-    "FM27 - Plugin 00 - Banner/BeppEmre-FM27-Plugin00-Banner.dll": "91ef9024438d9ba59a292c561488ac91a8b7db408970b1095cb86eac8753a6d0",
-    "FM27 - Plugin 00 - Banner/plugin.json": "e76fdec83e74617aed889cfe934e06a872fe0191021d3bcaf2e61132a1243063",
+    "FM27 - Plugin 00 - Banner/BeppEmre-FM27-Plugin00-Banner.dll": "964b0318fe5f9e324efe53881c002b80c544e11845b5bed76fc601bc5a2eff04",
+    "FM27 - Plugin 00 - Banner/plugin.json": "acc4b0a335ac3aa00213e5b2eb4e08c1c6d3788aec9cd7a52d7fcbd21c04a4f4",
     "FM27 - Plugin 00 - Banner/LEGGIMI.txt": "557086a85a70a9bf7a0db19b75dfe0f55056e81e9eaf6d53a5979243e152e348"
    },
+   "sorgenti": "29db3dc5905e63dfbc67860f0e45fbc058e340f459b1372a2957e3afb91e4a9d",
    "anteprime": []
   },
   {
@@ -46,7 +47,7 @@
    "numero": 1,
    "nome": "Volto dell'allenatore",
    "cartella": "FM27 - Plugin 01 - Volto",
-   "versione": "1.0.2",
+   "versione": "1.0.3",
    "descrizione": "La tua foto al posto del volto del tuo allenatore. Si vede nel tuo profilo, in Società > Profilo e dove compare il tuo primo piano. La foto la prepari qui sopra.",
    "facoltativo": true,
    "automatico": false,
@@ -55,16 +56,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "63f1e90a865d_plugin01.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/63f1e90a865d_plugin01.zip",
-    "dimensione": 28319,
-    "sha256": "63f1e90a865d8a5bd693d4d4c595cd860d02d95f8ba5a5db11e9777a31414e43"
+    "asset": "1f2efc0d94be_plugin01.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/1f2efc0d94be_plugin01.zip",
+    "dimensione": 28318,
+    "sha256": "1f2efc0d94be9dbc6c6519bef93f05fdf558f4f31198ed1500bf919ed99c46a0"
    },
    "file": {
-    "FM27 - Plugin 01 - Volto/BeppEmre-FM27-Plugin01-Volto.dll": "d90a27d02b0c681a5da2b25246a2635715b13b2f90d3499549f0115484886363",
-    "FM27 - Plugin 01 - Volto/plugin.json": "6bccae7994e52b1d24d6394fbba5ef6b81da43d85fed9e1551302d97a0be0be5",
+    "FM27 - Plugin 01 - Volto/BeppEmre-FM27-Plugin01-Volto.dll": "25d4941099033f8dadef2628462193e7a7f7d9690cfa8bb879df52b5b4be3aa6",
+    "FM27 - Plugin 01 - Volto/plugin.json": "aa4ec55198d9f7aeb9b7ea285cb320dd843a4b8161f11b9e077b6210f010c44e",
     "FM27 - Plugin 01 - Volto/LEGGIMI.txt": "e104ecb98d7968d7792b90a98a9002b8d72b55476855dc7128e787e1908a5175"
    },
+   "sorgenti": "7fade3e5274cb9610a7eebe3a85e5503720e17dc618e08262adb18ed150a4a78",
    "anteprime": []
   },
   {
@@ -72,7 +74,7 @@
    "numero": 2,
    "nome": "Condizione e forma",
    "cartella": "FM27 - Plugin 02 - Condizione e forma",
-   "versione": "1.0.2",
+   "versione": "1.0.3",
    "descrizione": "Condizione, forma partita e freschezza diventano anelli colorati con il valore al centro (TOP quando è al massimo, INF se è infortunato), in rosa, tattica, partita e profilo. Nelle classifiche la forma delle squadre diventa una fila di icone: vittoria, pareggio, sconfitta.",
    "facoltativo": true,
    "automatico": false,
@@ -81,16 +83,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "4925f2ec9807_plugin02.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/4925f2ec9807_plugin02.zip",
-    "dimensione": 52320,
-    "sha256": "4925f2ec980724040325818984abb6cd9cd05d2daa61769366b460bc07de0c88"
+    "asset": "a0e33db2c251_plugin02.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a0e33db2c251_plugin02.zip",
+    "dimensione": 52321,
+    "sha256": "a0e33db2c2517998670b99a0b539a8179e360183ff030b0835db8cb41188880c"
    },
    "file": {
-    "FM27 - Plugin 02 - Condizione e forma/BeppEmre-FM27-Plugin02-CondizioneForma.dll": "49ecba35d7a4680f8b9720e4234f3c5d1b24fa05916684f09955f67293a8d8b7",
-    "FM27 - Plugin 02 - Condizione e forma/plugin.json": "6012235ec19607e663dc2ed184b42bf2eff5a3d6bf07e925de19bd2b6a00152d",
+    "FM27 - Plugin 02 - Condizione e forma/BeppEmre-FM27-Plugin02-CondizioneForma.dll": "7fd4434c09b89a2cf5aa325301aa266161f5745f5078cfc2e795048f6984a0b6",
+    "FM27 - Plugin 02 - Condizione e forma/plugin.json": "620e976867dbeac75fb4d65701f6b56334988b6cd19c5ab087eaffe7ae6816ac",
     "FM27 - Plugin 02 - Condizione e forma/LEGGIMI.txt": "187a895e4a674ffebd7540aca50831f0a341eeb6735c7c4eae5f3ac447370b30"
    },
+   "sorgenti": "d27267980282813dfdfc79acf0b4089de9ddea51e20e6212985bf1149c6808cd",
    "anteprime": [
     {
      "asset": "d67bed9d498e_plugin02-1.jpg",
@@ -107,6 +110,13 @@
      "sorgente_sha256": "458936c3add42f8a2b452c7dc5563c316b990cd5174d0392a4eb2e3e3c374876"
     },
     {
+     "asset": "d9b7f49bc6fb_plugin02-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d9b7f49bc6fb_plugin02-3.jpg",
+     "dimensione": 160773,
+     "sha256": "d9b7f49bc6fbcc487f55cdb855a83ecf197de8b6ac3a7d1ffd6757b1fbaeaee6",
+     "sorgente_sha256": "fa59c0b3fe69175e567cfdb0c7eefab21e1ff25bcf75647d4674cda342cd71ca"
+    },
+    {
      "asset": "db00e0941beb_plugin02-3.jpg",
      "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/db00e0941beb_plugin02-3.jpg",
      "dimensione": 115369,
@@ -120,7 +130,7 @@
    "numero": 3,
    "nome": "Foto stadi",
    "cartella": "FM27 - Plugin 03 - Foto stadi",
-   "versione": "1.0.3",
+   "versione": "1.0.4",
    "descrizione": "La foto dello stadio vero nella pagina della società e nel calendario, dietro la partita scelta. Lo stadio si riconosce dal suo numero nel gioco, quindi va con qualunque pacchetto di foto e qualunque No Fake. Se manca la foto compare una foto di riserva (anche per gli stadi nuovi costruiti in carriera).",
    "facoltativo": true,
    "automatico": false,
@@ -129,16 +139,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "fa816f7b3456_plugin03.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/fa816f7b3456_plugin03.zip",
-    "dimensione": 2320245,
-    "sha256": "fa816f7b3456554bce706967b488b5b238c258802e4044eb59f400de661587f8"
+    "asset": "ec327168c358_plugin03.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/ec327168c358_plugin03.zip",
+    "dimensione": 2320240,
+    "sha256": "ec327168c358797818cf703497a58b55671bacda522cf825f3b26e26c0107290"
    },
    "file": {
-    "FM27 - Plugin 03 - Foto stadi/BeppEmre-FM27-Plugin03-FotoStadi.dll": "fac2d2c281ec7b1477508d838d600a9ce7ca621f0d93c2db116290e3662cfa4e",
-    "FM27 - Plugin 03 - Foto stadi/plugin.json": "ed9f7dfa5db07685ddccc7bfc4d78db1a0d40ebe168d53102ecfe30c7801662d",
+    "FM27 - Plugin 03 - Foto stadi/BeppEmre-FM27-Plugin03-FotoStadi.dll": "1b4dbf32aacfee9df896fcaf6d2ba2612e3aafcf21b5d3e3f17436b3fdd67a25",
+    "FM27 - Plugin 03 - Foto stadi/plugin.json": "5c133b8b4ee0a12b81e9c51cb3fe05babb460fcc1a0848983ef34dbfc5467b9a",
     "FM27 - Plugin 03 - Foto stadi/LEGGIMI.txt": "eb638796cf2a4319a736a316704d60cbd4843eb24d4222cc21d47de89d5ff416"
    },
+   "sorgenti": "e15cd29b05e9d4c3869b8cdc680c7128fa0aa6e73b7204633e19690143b07479",
    "anteprime": [
     {
      "asset": "e937f350504c_plugin03-1.jpg",
@@ -161,7 +172,7 @@
    "numero": 4,
    "nome": "Storia e finanze",
    "cartella": "FM27 - Plugin 04 - Storia e finanze",
-   "versione": "1.0.2",
+   "versione": "1.0.3",
    "descrizione": "La storia del club a colpo d'occhio: le ultime 20 stagioni come barre colorate con posizione, divisione, scudetti, promozioni e retrocessioni. I conti della società diventano grafici chiari e colorati: incassi, spese, saldo, stipendi, debiti e budget, ovunque compaiano nel gioco.",
    "facoltativo": true,
    "automatico": false,
@@ -170,16 +181,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "ccf3de09ae6d_plugin04.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/ccf3de09ae6d_plugin04.zip",
-    "dimensione": 97864,
-    "sha256": "ccf3de09ae6dccd2aa3b62c6c0f02d4954132ed9b06f46ccbead9bbc45788a1d"
+    "asset": "8c227ac73685_plugin04.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/8c227ac73685_plugin04.zip",
+    "dimensione": 97858,
+    "sha256": "8c227ac736858722c5b8d91b21e05adebd732e7b9e9ef5c4946caa53cb04f3de"
    },
    "file": {
-    "FM27 - Plugin 04 - Storia e finanze/BeppEmre-FM27-Plugin04-StoriaFinanze.dll": "2dfeab2478aa0608e4fa097338021ca8e32f668b0c6228449948c9ee63cd9776",
-    "FM27 - Plugin 04 - Storia e finanze/plugin.json": "726648541aefb05675a3b5d12e6555a3df772517eb5176f9d3cbbc823ca6d2a0",
+    "FM27 - Plugin 04 - Storia e finanze/BeppEmre-FM27-Plugin04-StoriaFinanze.dll": "fe7bb87148d1741e93d0680cc7a94b765219aede4e1caf2a196434fc42240d96",
+    "FM27 - Plugin 04 - Storia e finanze/plugin.json": "e8ec74b2705a3bf1058259158de1f33aa2527af15d9c97d9f31d601e364ace03",
     "FM27 - Plugin 04 - Storia e finanze/LEGGIMI.txt": "6af30b30ff01def830e8f14df1616354fed5ff658e3ec3d95601776002cbe1ff"
    },
+   "sorgenti": "5ae22c7108ff8b7b8bb8efb987f8652a5e9f0cdb1ab89f38a3383ccb2c3ef620",
    "anteprime": [
     {
      "asset": "05203968ec4c_plugin04-1.jpg",
@@ -209,7 +221,7 @@
    "numero": 5,
    "nome": "Filtro calendari",
    "cartella": "FM27 - Plugin 05 - Filtro calendari",
-   "versione": "1.0.2",
+   "versione": "1.0.3",
    "descrizione": "In Calendario > Incontri, una pillola per ogni competizione con il numero di partite: un clic mostra solo quelle. Filtri Casa/Trasferta e Da giocare/Giocate, e una riga con vittorie, pareggi, sconfitte e gol. La tabella del gioco resta intatta.",
    "facoltativo": true,
    "automatico": false,
@@ -218,16 +230,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "422592460d86_plugin05.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/422592460d86_plugin05.zip",
-    "dimensione": 65468,
-    "sha256": "422592460d864b1e9434aa3dff5bf4d00b9578728bdee5f90e54b86bb76d44b3"
+    "asset": "11ed68757f8b_plugin05.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/11ed68757f8b_plugin05.zip",
+    "dimensione": 65462,
+    "sha256": "11ed68757f8bd3483e43be6ff97cfe931454f5e6872069856dc27ef9c2c1dc4f"
    },
    "file": {
-    "FM27 - Plugin 05 - Filtro calendari/BeppEmre-FM27-Plugin05-FiltroCalendari.dll": "0a2d6f2b8cc8d6c136de05145560a5eb4ecd34ff9b906638230594337e5d6591",
-    "FM27 - Plugin 05 - Filtro calendari/plugin.json": "98ed7b9563742f70f69e78afe8218bba0b849416770d99371c35e371053229c1",
+    "FM27 - Plugin 05 - Filtro calendari/BeppEmre-FM27-Plugin05-FiltroCalendari.dll": "5c6d48f654c749c69354eb8b186429581e6236b233fd11c57866200f97d4aeaf",
+    "FM27 - Plugin 05 - Filtro calendari/plugin.json": "0727ab4f550fa717f544c8e1d90c4995cddb6fa1a0274f6c0179771c36eea050",
     "FM27 - Plugin 05 - Filtro calendari/LEGGIMI.txt": "fccebae477511957443fed83de82366fdea6c9d2dfa1e3faf2c00623551c4cd0"
    },
+   "sorgenti": "1afc3b7d54618a81971357d74f31f4f376cc87dff76db4378a56b29572f1c317",
    "anteprime": [
     {
      "asset": "f05e1d7ebb67_plugin05-1.jpg",
@@ -257,7 +270,7 @@
    "numero": 6,
    "nome": "Distinte pre-partita",
    "cartella": "FM27 - Plugin 06 - Distinte pre-partita",
-   "versione": "1.0.1",
+   "versione": "1.0.2",
    "descrizione": "Il prima della partita come in TV: la card del Matchday con lo stadio vero, la sfida in panchina e la scritta DERBY nei derby, le distinte con i reparti che entrano uno dopo l'altro e la classifica con le due squadre in campo oggi.",
    "facoltativo": true,
    "automatico": false,
@@ -266,16 +279,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "5b9119a0956a_plugin06.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/5b9119a0956a_plugin06.zip",
-    "dimensione": 2745615,
-    "sha256": "5b9119a0956aba8825fac6a57438ab93fedcb8832123876691ea9af9c7bf4d3e"
+    "asset": "c9ac0f655bf4_plugin06.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/c9ac0f655bf4_plugin06.zip",
+    "dimensione": 2745609,
+    "sha256": "c9ac0f655bf488bcf25a6a5c09084610e26e3212e680c908edddcba0af48549e"
    },
    "file": {
-    "FM27 - Plugin 06 - Distinte pre-partita/BeppEmre-FM27-Plugin06-Distinte.dll": "b5c6cdeb4783e2d3e1747a8fcddf272c140e509f0f7f2e62a79cf703dd6d4b0b",
-    "FM27 - Plugin 06 - Distinte pre-partita/plugin.json": "6354ef73e82c56c9bb38f542c114e911f0017cfeeaa308f3c528317c54160b70",
+    "FM27 - Plugin 06 - Distinte pre-partita/BeppEmre-FM27-Plugin06-Distinte.dll": "a808f0b04d7a5a2d9591c0211c138b2caadf70b49a95b99621d0a625f21d9ab4",
+    "FM27 - Plugin 06 - Distinte pre-partita/plugin.json": "4d3f155afdb2f7d25731453c5d7cc711a29cf9a460da7482f9e5e72c6855221f",
     "FM27 - Plugin 06 - Distinte pre-partita/LEGGIMI.txt": "89c02d927c6453fee93cf89154a7fbb2f31bb6d1ef8b581ce22940bd14dbda47"
    },
+   "sorgenti": "5e431b9c4be8fc5d8b490942f27f6541a025ded37accd422123953770f35d37f",
    "anteprime": [
     {
      "asset": "fea57c30b13a_plugin06-1.jpg",
@@ -326,7 +340,7 @@
    "numero": 7,
    "nome": "Scoreboard e popup",
    "cartella": "FM27 - Plugin 07 - Scoreboard e popup",
-   "versione": "1.2.4",
+   "versione": "1.2.5",
    "descrizione": "La partita come in TV: il tabellone con i colori delle squadre, le palette del risultato e il riquadro del tempo giallo con il recupero; poi i popup di gol, cartellini, cambi e VAR, la diretta gol dagli altri campi e la classifica live.",
    "facoltativo": true,
    "automatico": false,
@@ -335,16 +349,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "78b85a41e600_plugin07.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/78b85a41e600_plugin07.zip",
-    "dimensione": 257004,
-    "sha256": "78b85a41e6004c714adca96fded406e2eeb75508d2805b84f1ba89266821166e"
+    "asset": "6c6387159f8d_plugin07.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/6c6387159f8d_plugin07.zip",
+    "dimensione": 257000,
+    "sha256": "6c6387159f8dbb19666e42e3db872233f816b0c2a3d91bd09aea44d5ba5a84d4"
    },
    "file": {
-    "FM27 - Plugin 07 - Scoreboard e popup/BeppEmre-FM27-Plugin07-Scoreboard.dll": "77788594043052e0fcad69dd47d484009c48f82c6f85a8d09a6de681026ef398",
-    "FM27 - Plugin 07 - Scoreboard e popup/plugin.json": "14a520de4af0fd5fe39e6d13eb00056b55930ff4b6f002a473727b99442079bb",
+    "FM27 - Plugin 07 - Scoreboard e popup/BeppEmre-FM27-Plugin07-Scoreboard.dll": "1f2ce3e67a93a7f7cc323f18f1c1931caa578c1ec2130a5703c9f4fbe188eb04",
+    "FM27 - Plugin 07 - Scoreboard e popup/plugin.json": "0bb9732be04de307aca60a35ee5ae8be4e8c8b09ec8243ce9c95210e681d74ee",
     "FM27 - Plugin 07 - Scoreboard e popup/LEGGIMI.txt": "949c99d4986a2ca3836ce654b11951f86552c8ca3807c5a1bc8ee1de5ec7ba11"
    },
+   "sorgenti": "125e9bcc0f7fc1ad846acf54f58b4c4e18db6667e34f3370b9b6c08c8257dfd0",
    "anteprime": [
     {
      "asset": "3a0cf9a2f124_plugin07-1.jpg",
@@ -430,7 +445,7 @@
    "numero": 8,
    "nome": "Reti delle porte",
    "cartella": "FM27 - Plugin 08 - Reti delle porte",
-   "versione": "1.0.2",
+   "versione": "1.0.3",
    "descrizione": "Reti delle porte vere, a maglia esagonale: in campionato i colori della squadra di casa con una trama diversa a ogni partita, nelle coppe nazionali la bandiera, nelle coppe europee le sfumature della coppa.",
    "facoltativo": true,
    "automatico": false,
@@ -439,16 +454,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "1bc91c360001_plugin08.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/1bc91c360001_plugin08.zip",
-    "dimensione": 51191,
-    "sha256": "1bc91c360001d644fe728624dbad6e6746212eaa450c97ed68b3ce66725bf870"
+    "asset": "7eed825fe45c_plugin08.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/7eed825fe45c_plugin08.zip",
+    "dimensione": 51184,
+    "sha256": "7eed825fe45c64d097d60e686041374405bf8c809e4af81243739db12cc4ac21"
    },
    "file": {
-    "FM27 - Plugin 08 - Reti delle porte/BeppEmre-FM27-Plugin08-Reti.dll": "15c6ddf1c214bbe8978c5bc063578e3134b02885625758f41bd974b667a06337",
-    "FM27 - Plugin 08 - Reti delle porte/plugin.json": "cd0181c72488c6336ad278f0bce693877c7a8e2c1b0fccb157823bda6212fc79",
+    "FM27 - Plugin 08 - Reti delle porte/BeppEmre-FM27-Plugin08-Reti.dll": "050909ae09e7ededaa080246a7ea6d55629f120e335de2c87f3ebe5a2bb7de46",
+    "FM27 - Plugin 08 - Reti delle porte/plugin.json": "618f5088cecbc6944fb52970eb71b904e326ae98a15490fdfb118f980923ca78",
     "FM27 - Plugin 08 - Reti delle porte/LEGGIMI.txt": "e07ad85bdbeb5bd20a83a924200319d0f7ed95bd91d541bff65e37ca90a3e8f0"
    },
+   "sorgenti": "4c4557fb0cc164a67e1def20ec1cee351007d0c4d4df2b3f085f45fd4843150d",
    "anteprime": [
     {
      "asset": "b20f1ad0f535_plugin08-1.jpg",
@@ -548,7 +564,7 @@
    "numero": 9,
    "nome": "Allarme pressione",
    "cartella": "FM27 - Plugin 09 - Allarme pressione",
-   "versione": "1.0.1",
+   "versione": "1.0.2",
    "descrizione": "Quando l'avversario ti sta schiacciando davvero, in partita esce una striscia con ATTENZIONE e la barra del dominio calcolata sui dati veri degli ultimi 10 minuti. Ti avvisa anche quando ti aggredisce alto (PRESSING ALTO, con il nostro PPDA) e quando cambia atteggiamento o modulo.",
    "facoltativo": true,
    "automatico": false,
@@ -557,16 +573,17 @@
     "steamBuild": "26577676"
    },
    "pacchetto": {
-    "asset": "f4f312612df5_plugin09.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/f4f312612df5_plugin09.zip",
-    "dimensione": 185239,
-    "sha256": "f4f312612df513c2cc642d308a07f21849f2cb6a4f46d0bf93550253b92d51d7"
+    "asset": "91b9b1b9608b_plugin09.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/91b9b1b9608b_plugin09.zip",
+    "dimensione": 185242,
+    "sha256": "91b9b1b9608b76ff9d2b706075c881cd3e7c2e03f344cd35f1f20105ef38205c"
    },
    "file": {
-    "FM27 - Plugin 09 - Allarme pressione/BeppEmre-FM27-Plugin09-AllarmePressione.dll": "85c185fcb884134596d6b4c0514750b478dd99c988db27a0a874841744fe61a5",
-    "FM27 - Plugin 09 - Allarme pressione/plugin.json": "d3e48030f4e0d127b06d13ff1ce4a049970274faad9e608f65ff2aacb2ef6bc2",
+    "FM27 - Plugin 09 - Allarme pressione/BeppEmre-FM27-Plugin09-AllarmePressione.dll": "5e6e2a599423a11dc4b22d8f34ec75bb8a9832e4eeedff82bad9ed9840923358",
+    "FM27 - Plugin 09 - Allarme pressione/plugin.json": "ce4d73b5f557156240437154701037acd19c2dc22ce4c1d54bfdacb94a0c10b4",
     "FM27 - Plugin 09 - Allarme pressione/LEGGIMI.txt": "1e6c8f9663253346d1d3b73ff6b3cb8ea79a614fdd41c5536be8c99bd656c3db"
    },
+   "sorgenti": "68db1604ada8548be0d4590653d0be13980e7c4bc8b42df3be0549df124552e7",
    "anteprime": [
     {
      "asset": "a3b5e7c6a26e_plugin09-1.jpg",
