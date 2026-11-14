@@ -1,7 +1,7 @@
 {
  "formato": 1,
  "skin": "BeppEmre Skin V 1.0",
- "versione": "1.3",
+ "versione": "1.4",
  "data": "14/11/2026",
  "gioco": {
   "versione": "27.0.0",
@@ -101,10 +101,10 @@
   },
   {
    "nome": "ui-styles_assets_common.bundle",
-   "dimensione": 338067,
-   "sha256": "de29538adfeefb80bd59c595c110be2b4b3b2c6ff4d41a74b984625e7fd159a0",
-   "asset": "de29538adfee_ui-styles_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/de29538adfee_ui-styles_assets_common.bundle"
+   "dimensione": 338111,
+   "sha256": "01e8209982b080c75ce6fabece137fbbb742f682b9cff91b9eea9bdcadd7b31b",
+   "asset": "01e8209982b0_ui-styles_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/01e8209982b0_ui-styles_assets_common.bundle"
   },
   {
    "nome": "ui-styles_assets_default.bundle",
