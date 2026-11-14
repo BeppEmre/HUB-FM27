@@ -1,0 +1,26 @@
+{
+  "formato": 1,
+  "pacchetti": [
+    {
+      "id": "fmscout",
+      "nome": "FMScout",
+      "sito": "https://www.fmscout.com/a-fm27-real-names-license-fix.html",
+      "versione": "10/11/2026",
+      "file": "fmscout-fm27-10-11-2026.zip",
+      "zip": "https://github.com/BeppEmre/HUB-FM27/releases/download/nofake/fmscout-fm27-10-11-2026.zip",
+      "sha256": "b34adeb79a02e9acf87f3d0f23d3693d4502537030f4e52e41ad2d5782a11211",
+      "contenuto": "9c728ee40561f67e3b99685777f3d81f4ff0df1233fea400f94a367b593105dc"
+    },
+    {
+      "id": "sortitoutsi",
+      "nome": "Sortitoutsi",
+      "sito": "https://sortitoutsi.net/content/78047/fm27-real-name-fix",
+      "versione": "v5",
+      "file": "sortitoutsi-fm27-v5.zip",
+      "zip": "https://github.com/BeppEmre/HUB-FM27/releases/download/nofake/sortitoutsi-fm27-v5.zip",
+      "sha256": "3a90093908bafc60d3a65be75ee9b9e0693bca75921a23ba74a416500a8f9b50",
+      "contenuto": "c8626ecf7164296b5c2e7d8b800e6de9c04ab1a917e9f71f470b589d35a85e0a"
+    }
+  ],
+  "aggiornato": "2026-11-14"
+}
