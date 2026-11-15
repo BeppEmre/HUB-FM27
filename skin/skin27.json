@@ -1,8 +1,8 @@
 {
  "formato": 1,
  "skin": "BeppEmre Skin V 1.0",
- "versione": "1.0 - Mezzanotte Reale",
- "data": "14/11/2026",
+ "versione": "1.1",
+ "data": "15/11/2026",
  "gioco": {
   "versione": "27.0.0",
   "steamBuild": "26577676"
@@ -17,17 +17,17 @@
   },
   {
    "nome": "ui-backgrounds_assets_.bundle",
-   "dimensione": 51252351,
-   "sha256": "831e15e0194cd0febac6e9152301d10d559e02266b40671d2bdc0ddaeeb4c006",
-   "asset": "831e15e0194c_ui-backgrounds_assets_.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/831e15e0194c_ui-backgrounds_assets_.bundle"
+   "dimensione": 38693367,
+   "sha256": "a9eb75f4cb22fb2f091e9fc33d530df0c827a82d2a8d7281c867eeaf606ce8bc",
+   "asset": "a9eb75f4cb22_ui-backgrounds_assets_.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/a9eb75f4cb22_ui-backgrounds_assets_.bundle"
   },
   {
    "nome": "ui-backgrounds_assets_common.bundle",
-   "dimensione": 77754458,
-   "sha256": "220f2c11a9568da6523aaa59d4ecb2af9f39c2ba4ef10c91d8f8a49502c5a23d",
-   "asset": "220f2c11a956_ui-backgrounds_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/220f2c11a956_ui-backgrounds_assets_common.bundle"
+   "dimensione": 74578260,
+   "sha256": "9ba8329cd0e81632cf3906c5e0215b168a282a7ec384b69df3efb8758cfda250",
+   "asset": "9ba8329cd0e8_ui-backgrounds_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/9ba8329cd0e8_ui-backgrounds_assets_common.bundle"
   },
   {
    "nome": "ui-datacollections_assets_all.bundle",
@@ -45,17 +45,17 @@
   },
   {
    "nome": "ui-fonts_assets_production.bundle",
-   "dimensione": 21507470,
-   "sha256": "22abf02b7986e31841d083ebe87048b19d714d8a192e461137431a719a51a68e",
-   "asset": "22abf02b7986_ui-fonts_assets_production.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/22abf02b7986_ui-fonts_assets_production.bundle"
+   "dimensione": 21503830,
+   "sha256": "60e0ff6c0bf1e75618107c1dd406baa08c813984b4f6883b9ea374be5295ab41",
+   "asset": "60e0ff6c0bf1_ui-fonts_assets_production.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/60e0ff6c0bf1_ui-fonts_assets_production.bundle"
   },
   {
    "nome": "ui-fonts_assets_uefa_uwcl.bundle",
-   "dimensione": 141793,
-   "sha256": "bf5c47eeb8fdf3a0dc269d950ee14d7fd7b0ab1b743fb7342b7f250fb1c86e23",
-   "asset": "bf5c47eeb8fd_ui-fonts_assets_uefa_uwcl.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/bf5c47eeb8fd_ui-fonts_assets_uefa_uwcl.bundle"
+   "dimensione": 141114,
+   "sha256": "d7e22db3578b39332b75849670c92032c862c1f0d779ca8828e37c15fdb8f0fc",
+   "asset": "d7e22db3578b_ui-fonts_assets_uefa_uwcl.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/d7e22db3578b_ui-fonts_assets_uefa_uwcl.bundle"
   },
   {
    "nome": "ui-icons_assets_common.bundle",
@@ -108,10 +108,10 @@
   },
   {
    "nome": "ui-styles_assets_default.bundle",
-   "dimensione": 4684993,
-   "sha256": "260cd3d339e17795ea681aa2cdb7dedcf972b41ab81d55354e0aeb13d853268c",
-   "asset": "260cd3d339e1_ui-styles_assets_default.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/260cd3d339e1_ui-styles_assets_default.bundle"
+   "dimensione": 4688001,
+   "sha256": "1fac64a591033674a7c08d45214fc1f8bf57fd4a75c751ac1005dc4c478fc643",
+   "asset": "1fac64a59103_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1fac64a59103_ui-styles_assets_default.bundle"
   },
   {
    "nome": "ui-tablefactories_assets_all.bundle",
@@ -129,17 +129,17 @@
   },
   {
    "nome": "ui-textures_assets_all.bundle",
-   "dimensione": 12592992,
-   "sha256": "112dd2ed6238e3b2295494b4ac8f5adfec0f3160b42e247c8f26c615c4ee3bb0",
-   "asset": "112dd2ed6238_ui-textures_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/112dd2ed6238_ui-textures_assets_all.bundle"
+   "dimensione": 12243542,
+   "sha256": "f97d04f3d717819d0d6ea09a5e70b24be39637a3dfe31ac12712f47d94abe183",
+   "asset": "f97d04f3d717_ui-textures_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/f97d04f3d717_ui-textures_assets_all.bundle"
   },
   {
    "nome": "ui-tileslayouts_assets_all.bundle",
-   "dimensione": 942562,
-   "sha256": "5f2d966757b3b158653631503754cd5a43565d6333f6a83bace082d60d3b9f3d",
-   "asset": "5f2d966757b3_ui-tileslayouts_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/5f2d966757b3_ui-tileslayouts_assets_all.bundle"
+   "dimensione": 942595,
+   "sha256": "40b7afdb59ab5ee65a681681860d6cb3d92df246ff7eb332c425da8db34daf06",
+   "asset": "40b7afdb59ab_ui-tileslayouts_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/40b7afdb59ab_ui-tileslayouts_assets_all.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle",
