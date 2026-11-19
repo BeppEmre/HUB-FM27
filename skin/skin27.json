@@ -1,11 +1,11 @@
 {
  "formato": 1,
- "skin": "BeppEmre Skin V 1.0",
- "versione": "1.1",
- "data": "15/11/2026",
+ "skin": "BeppEmre Skin V 2.0",
+ "versione": "2.0",
+ "data": "19/11/2026",
  "gioco": {
-  "versione": "27.0.0",
-  "steamBuild": "26577676"
+  "versione": "27.1.0",
+  "steamBuild": "26620374"
  },
  "file": [
   {
@@ -17,38 +17,38 @@
   },
   {
    "nome": "ui-backgrounds_assets_.bundle",
-   "dimensione": 38693367,
-   "sha256": "a9eb75f4cb22fb2f091e9fc33d530df0c827a82d2a8d7281c867eeaf606ce8bc",
-   "asset": "a9eb75f4cb22_ui-backgrounds_assets_.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/a9eb75f4cb22_ui-backgrounds_assets_.bundle"
+   "dimensione": 47743803,
+   "sha256": "8bc78301f675a95b7f896cde744c988e49a0e0fafc81dfd3e8bc60b2685d17d4",
+   "asset": "8bc78301f675_ui-backgrounds_assets_.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/8bc78301f675_ui-backgrounds_assets_.bundle"
   },
   {
    "nome": "ui-backgrounds_assets_common.bundle",
-   "dimensione": 74578260,
-   "sha256": "9ba8329cd0e81632cf3906c5e0215b168a282a7ec384b69df3efb8758cfda250",
-   "asset": "9ba8329cd0e8_ui-backgrounds_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/9ba8329cd0e8_ui-backgrounds_assets_common.bundle"
+   "dimensione": 76643819,
+   "sha256": "1e90214b4b4ea6c28086cfe221d6cd1ced1c1b7b3fe3f26534fd6de9521bbd89",
+   "asset": "1e90214b4b4e_ui-backgrounds_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1e90214b4b4e_ui-backgrounds_assets_common.bundle"
   },
   {
    "nome": "ui-datacollections_assets_all.bundle",
-   "dimensione": 146012,
-   "sha256": "611be701b6cb62ca2b883ae2a2d5b88bb0314ded965cd277f5c347e10ceee4f5",
-   "asset": "611be701b6cb_ui-datacollections_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/611be701b6cb_ui-datacollections_assets_all.bundle"
+   "dimensione": 146416,
+   "sha256": "f816faa5f141c60098d7fb109291973df45697d512bcf1c04341cbb41cb3399c",
+   "asset": "f816faa5f141_ui-datacollections_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/f816faa5f141_ui-datacollections_assets_all.bundle"
   },
   {
    "nome": "ui-fonts_assets_fmuniverse.bundle",
-   "dimensione": 265102,
-   "sha256": "cb7869bea518a9cff7720c58c76be4174b618216c862f2f6a7a9a5d94edfa97f",
-   "asset": "cb7869bea518_ui-fonts_assets_fmuniverse.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/cb7869bea518_ui-fonts_assets_fmuniverse.bundle"
+   "dimensione": 265677,
+   "sha256": "c68bcc53b290a7c3cfd222f10d1f45e4d595396fef5b2cd82f8c735b4ae773c6",
+   "asset": "c68bcc53b290_ui-fonts_assets_fmuniverse.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c68bcc53b290_ui-fonts_assets_fmuniverse.bundle"
   },
   {
    "nome": "ui-fonts_assets_production.bundle",
-   "dimensione": 21503830,
-   "sha256": "60e0ff6c0bf1e75618107c1dd406baa08c813984b4f6883b9ea374be5295ab41",
-   "asset": "60e0ff6c0bf1_ui-fonts_assets_production.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/60e0ff6c0bf1_ui-fonts_assets_production.bundle"
+   "dimensione": 17050160,
+   "sha256": "6618009aed3056d38a8d185d4c4ab1794227dbc013936329e66fd35115f35672",
+   "asset": "6618009aed30_ui-fonts_assets_production.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/6618009aed30_ui-fonts_assets_production.bundle"
   },
   {
    "nome": "ui-fonts_assets_uefa_uwcl.bundle",
@@ -59,129 +59,115 @@
   },
   {
    "nome": "ui-icons_assets_common.bundle",
-   "dimensione": 1307681,
-   "sha256": "c6b045bc01cf3e3c11d09d5e02c2098895a9d0663f26d74118739b1c81e846cd",
-   "asset": "c6b045bc01cf_ui-icons_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c6b045bc01cf_ui-icons_assets_common.bundle"
+   "dimensione": 1261558,
+   "sha256": "cca7c232e575fb826b47dc9be7550696a47451f2d47d737e884d6a397a8170c0",
+   "asset": "cca7c232e575_ui-icons_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/cca7c232e575_ui-icons_assets_common.bundle"
   },
   {
    "nome": "ui-iconspriteatlases_assets_1x.bundle",
-   "dimensione": 2334550,
-   "sha256": "ec00b711b43e28a784dd598651b690099b91ec20185d9a8c9573f8c5f6d27ae8",
-   "asset": "ec00b711b43e_ui-iconspriteatlases_assets_1x.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/ec00b711b43e_ui-iconspriteatlases_assets_1x.bundle"
+   "dimensione": 3405027,
+   "sha256": "8d7506d6d4b5f8a4083c54d0bbf016a80573065de1bc2d66d84a9c1aecd65a28",
+   "asset": "8d7506d6d4b5_ui-iconspriteatlases_assets_1x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/8d7506d6d4b5_ui-iconspriteatlases_assets_1x.bundle"
   },
   {
    "nome": "ui-iconspriteatlases_assets_2x.bundle",
-   "dimensione": 4973448,
-   "sha256": "77b53e047c9390cf85e31383e7808ad0f52ed6fa0717e9228f7ef55a55b22e19",
-   "asset": "77b53e047c93_ui-iconspriteatlases_assets_2x.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/77b53e047c93_ui-iconspriteatlases_assets_2x.bundle"
+   "dimensione": 7709630,
+   "sha256": "858d08b4868ba3afce810da3151ef95f74c309269b5ff2d1d08132a5a07b530c",
+   "asset": "858d08b4868b_ui-iconspriteatlases_assets_2x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/858d08b4868b_ui-iconspriteatlases_assets_2x.bundle"
   },
   {
    "nome": "ui-iconspriteatlases_assets_3x.bundle",
-   "dimensione": 7601115,
-   "sha256": "c9ba643748f10837510bfe37b511f23e451cd4e138f755363019ee233eefd244",
-   "asset": "c9ba643748f1_ui-iconspriteatlases_assets_3x.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c9ba643748f1_ui-iconspriteatlases_assets_3x.bundle"
+   "dimensione": 11452615,
+   "sha256": "60b02b94f0fdb81cfc83fd94eb345cfe083f9a22212f18f52df2565bd0ba1dfb",
+   "asset": "60b02b94f0fd_ui-iconspriteatlases_assets_3x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/60b02b94f0fd_ui-iconspriteatlases_assets_3x.bundle"
   },
   {
    "nome": "ui-iconspriteatlases_assets_4x.bundle",
-   "dimensione": 9876819,
-   "sha256": "269fb55128ef67742673cae636a49297451ddd6f91dfbd8ec81ba2779b02ea17",
-   "asset": "269fb55128ef_ui-iconspriteatlases_assets_4x.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/269fb55128ef_ui-iconspriteatlases_assets_4x.bundle"
+   "dimensione": 15078452,
+   "sha256": "06a9cd01d3d087d4b4b0106c3fa719b6e7cbb84f15aab9e45e10faab48ceb458",
+   "asset": "06a9cd01d3d0_ui-iconspriteatlases_assets_4x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/06a9cd01d3d0_ui-iconspriteatlases_assets_4x.bundle"
   },
   {
    "nome": "ui-mainmenu-assets_assets_all.bundle",
-   "dimensione": 4901552,
-   "sha256": "40d4883eac8ddc82c71b8326b19c49a416ef30736059f054569e511b0482b203",
-   "asset": "40d4883eac8d_ui-mainmenu-assets_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/40d4883eac8d_ui-mainmenu-assets_assets_all.bundle"
+   "dimensione": 4786481,
+   "sha256": "1f4c40f3b43113b3c807f0e385087548b68b0bcda63ecfa7837cc08679550e1f",
+   "asset": "1f4c40f3b431_ui-mainmenu-assets_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1f4c40f3b431_ui-mainmenu-assets_assets_all.bundle"
   },
   {
    "nome": "ui-styles_assets_common.bundle",
-   "dimensione": 338111,
-   "sha256": "01e8209982b080c75ce6fabece137fbbb742f682b9cff91b9eea9bdcadd7b31b",
-   "asset": "01e8209982b0_ui-styles_assets_common.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/01e8209982b0_ui-styles_assets_common.bundle"
+   "dimensione": 339001,
+   "sha256": "fbc8e1d373a85c04232adc142138d80a6274742c9b47fbbd3c5dbb2256109c52",
+   "asset": "fbc8e1d373a8_ui-styles_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/fbc8e1d373a8_ui-styles_assets_common.bundle"
   },
   {
    "nome": "ui-styles_assets_default.bundle",
-   "dimensione": 4688001,
-   "sha256": "1fac64a591033674a7c08d45214fc1f8bf57fd4a75c751ac1005dc4c478fc643",
-   "asset": "1fac64a59103_ui-styles_assets_default.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1fac64a59103_ui-styles_assets_default.bundle"
+   "dimensione": 10583698,
+   "sha256": "b3881ddbd620fc97060935025ee60d95bf537f53cedbe511516f112c61aed441",
+   "asset": "b3881ddbd620_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/b3881ddbd620_ui-styles_assets_default.bundle"
   },
   {
    "nome": "ui-tablefactories_assets_all.bundle",
-   "dimensione": 186743,
-   "sha256": "78d90696dd71be0b7743f8a68f121f1cd34c47469591ce45fd7cef60e4c05538",
-   "asset": "78d90696dd71_ui-tablefactories_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/78d90696dd71_ui-tablefactories_assets_all.bundle"
+   "dimensione": 188174,
+   "sha256": "613d327cc31906b9a6a4a529aad8c2a98b50d1b0a0bd359b8e0dea7d18681ae7",
+   "asset": "613d327cc319_ui-tablefactories_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/613d327cc319_ui-tablefactories_assets_all.bundle"
   },
   {
    "nome": "ui-tableviews_assets_all.bundle",
-   "dimensione": 354954,
-   "sha256": "b55531eb1e0992bd29e3371d288dd31401d60d8f4062040f06012e38917e058f",
-   "asset": "b55531eb1e09_ui-tableviews_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/b55531eb1e09_ui-tableviews_assets_all.bundle"
+   "dimensione": 363892,
+   "sha256": "65a4fcd088e63b9ea260140bfc572f965e5b79e0050ab6346af6b375871a5d2b",
+   "asset": "65a4fcd088e6_ui-tableviews_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/65a4fcd088e6_ui-tableviews_assets_all.bundle"
   },
   {
    "nome": "ui-textures_assets_all.bundle",
-   "dimensione": 12243542,
-   "sha256": "f97d04f3d717819d0d6ea09a5e70b24be39637a3dfe31ac12712f47d94abe183",
-   "asset": "f97d04f3d717_ui-textures_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/f97d04f3d717_ui-textures_assets_all.bundle"
+   "dimensione": 12444463,
+   "sha256": "c2115bc18e962dc301c94444247191f261eac7d501c47db915c4fb76c97fac05",
+   "asset": "c2115bc18e96_ui-textures_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c2115bc18e96_ui-textures_assets_all.bundle"
   },
   {
    "nome": "ui-tileslayouts_assets_all.bundle",
-   "dimensione": 942595,
-   "sha256": "40b7afdb59ab5ee65a681681860d6cb3d92df246ff7eb332c425da8db34daf06",
-   "asset": "40b7afdb59ab_ui-tileslayouts_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/40b7afdb59ab_ui-tileslayouts_assets_all.bundle"
-  },
-  {
-   "nome": "ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle",
-   "dimensione": 174979,
-   "sha256": "224f24a920d315fdf61be4adf58475ceedbb5e0969b50a26c7a066660c9212ef",
-   "asset": "224f24a920d3_ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/224f24a920d3_ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle"
+   "dimensione": 942769,
+   "sha256": "31b339986f239d7825c0a4753157323774db17a400ce48ba84eba9e564437b8f",
+   "asset": "31b339986f23_ui-tileslayouts_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/31b339986f23_ui-tileslayouts_assets_all.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "dimensione": 9517325,
-   "sha256": "55fcbebf7c000ff335b3e2bd19da136e9f30f55894a9b006b6058dde0d00a094",
-   "asset": "55fcbebf7c00_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/55fcbebf7c00_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
+   "dimensione": 9540423,
+   "sha256": "4b5e0ee74631f3d19ec7a8e91eff4b39a242dfa9e95547c6c5038a6f3395d703",
+   "asset": "4b5e0ee74631_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/4b5e0ee74631_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
-   "dimensione": 3794695,
-   "sha256": "59f95cd19cef450c1bf070662121b85e19197a5a68dea6f1dcfcaca784b4e0e4",
-   "asset": "59f95cd19cef_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/59f95cd19cef_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle"
-  },
-  {
-   "nome": "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle",
-   "dimensione": 19811,
-   "sha256": "233725c13cfaff036e705dbf15adee91c9822b45e2d467ad5056884074e7338a",
-   "asset": "233725c13cfa_ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/233725c13cfa_ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle"
+   "dimensione": 3781535,
+   "sha256": "bcd0c2629fc9e52f7f507d4123051b5a72f2471d00873804f79de9bf70a49643",
+   "asset": "bcd0c2629fc9_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/bcd0c2629fc9_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
-   "dimensione": 149157,
-   "sha256": "02a5e28b0a443096d84c094564ff4740dc794734b4551b2e12752856acf3ab46",
-   "asset": "02a5e28b0a44_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/02a5e28b0a44_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle"
+   "dimensione": 151460,
+   "sha256": "e52c53d17f1cff0b49eb43dfe936dfc75273e0d33f6b214acd050e774859f8f6",
+   "asset": "e52c53d17f1c_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/e52c53d17f1c_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
-   "dimensione": 536990,
-   "sha256": "d2edd83bc8a4594d2c227aefe382a9dfabd8f18d716be4ea618461afc8aeadcb",
-   "asset": "d2edd83bc8a4_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/d2edd83bc8a4_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle"
+   "dimensione": 545140,
+   "sha256": "b5e3a096c9d50a636b846b87e4f1cec66659f44cbcbff22631e3c88c855062d9",
+   "asset": "b5e3a096c9d5_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/b5e3a096c9d5_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle"
   },
   {
    "nome": "videos-pc_assets_all.bundle",
@@ -284,10 +270,10 @@
   ]
  },
  "licenze": {
-  "asset": "6e3a1da3d11f_licenze.zip",
-  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/6e3a1da3d11f_licenze.zip",
-  "dimensione": 8264,
-  "sha256": "6e3a1da3d11fd0ad6d967c6d4b2b709fbad584c89b0c79a285a836a16a47ece3"
+  "asset": "c468e5d4a34d_licenze.zip",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c468e5d4a34d_licenze.zip",
+  "dimensione": 6194,
+  "sha256": "c468e5d4a34d596389507e3037d90c533354d84e05106230fe862fbf211aaab9"
  },
  "disposizioni": [
   "CalendarToolFixturesGridComposition-Large",
@@ -341,55 +327,56 @@
   "ui-backgrounds_assets_3x.bundle": "e374045f928270856258eae81680ea5a5a71aad303d9294aad2b56783ad65d1f",
   "ui-backgrounds_assets_4x.bundle": "20c5d91c7b49c2ae8b2deea0fc1b59345e640c51da8c97c72cb9f30bf8906713",
   "ui-backgrounds_assets_common.bundle": "6d116e98c667cc9f992c69a06ac8a0531eddef566628e92710542929b08df28d",
-  "ui-datacollections_assets_all.bundle": "bc395f970c2bc63b9b666890f3d32d6eac90ef6565d638559c554f54d7c77f94",
+  "ui-datacollections_assets_all.bundle": "8aa059224502d02f729dda92e8afebdc53ae78613577898a89d16cd0f6dd91cf",
   "ui-fonts_assets_assets_uiassets_fonts_licenced_fifa_worldcup.bundle": "197f605bfcf068f1e3cdba2e4b32ed4a38efb4d762ac1804f2d494827ddd77fd",
   "ui-fonts_assets_bundesliga.bundle": "0596a00e01c1298093987e6a1f605aab8e7ddb50220237dd57b1e6836e66c816",
   "ui-fonts_assets_efl.bundle": "dbd2cc136cc7fdeb78789e141765f4074ba06d972bb15aacd03fe39c66ad0acf",
   "ui-fonts_assets_fmuniverse.bundle": "dfb129056c40446bdefc78dce474c81571eab5027602cfc6b497573db05fe6b9",
   "ui-fonts_assets_premierleague.bundle": "8d41161094dcf4aea2af5d4c2590be7f4ed0df8d8d2f32543337173b9f809a3b",
-  "ui-fonts_assets_production.bundle": "bded4f35a91122b006a26d14178f8d654182e74388279acda7eada6346ec5205",
+  "ui-fonts_assets_production.bundle": "d79466d88b4b11fe6f012aaf1a97e5f5677c9e95aa96f46ef0937c810f2aacef",
   "ui-fonts_assets_uefa_championsleague.bundle": "ce85ac120a10a9305b87e6cf00f377b1b95d76034e48718412653c9d32a4b5bd",
   "ui-fonts_assets_uefa_europa.bundle": "bf564f3778344c018a7cc880a38eba7d6f42535d0368e5aaa62cc4d407fb8b34",
   "ui-fonts_assets_uefa_supercup.bundle": "2fb51926c5b667d14674b6052fbe30ce89ad9ecb24c27b18ce382d920d52b4de",
   "ui-fonts_assets_uefa_uwcl.bundle": "83a03afe9c07d52f64a758e9afdf77b5310268e0f67c345114457c6fd2e31b17",
   "ui-icons_assets_.bundle": "b2bba9907ab77cc2512bbda405c6fa5b41e33729708fdab46d01b8bde6e6858e",
-  "ui-icons_assets_1x.bundle": "346246706c1697af0fbf79a2e6fa62622106b63058eb74c4feb068e48a0898be",
-  "ui-icons_assets_2x.bundle": "1cb2517148fcee3eb4c2a2ff2a5d8f0a1dbb32287ba12738f214e0773f34e784",
-  "ui-icons_assets_3x.bundle": "1a960e7fd12bab60cbb86c83e9afbd10e5ebbbf7dbdc58f69b5049662d59b979",
-  "ui-icons_assets_4x.bundle": "add63f06521d80375f1f795815e14983c0655aeb25fb244eee674504b6823502",
-  "ui-icons_assets_common.bundle": "7d4349a291aa292e288d24c47bf44f693c39725ac2628f656ddb22081c9aaa8f",
-  "ui-iconspriteatlases_assets_1x.bundle": "3179ce48a9c301833dbc431f80ee10476be7b1da5a54d04185206f98063cb635",
-  "ui-iconspriteatlases_assets_2x.bundle": "c9e17776ab04df3f0a6a91e27e7fa8b6cce86b07e61eb938ad4c3347fc00dfd7",
-  "ui-iconspriteatlases_assets_3x.bundle": "9680c47c39fc60a1b1069e5223d94c5fc2d3047367878a8c0ac0945481a8cecd",
-  "ui-iconspriteatlases_assets_4x.bundle": "9f6cc2671911ee77556034e8b22e073b23ae13099364fbae329758e81d00b4b1",
+  "ui-icons_assets_1x.bundle": "ea9cd04739c620f7f6320d70e0c5b3184ebc0c1dc1e0f7ee428f215f3cddad91",
+  "ui-icons_assets_2x.bundle": "a8ecfaba4ab900c6626cffc8621d847a9b2eec4c1b50a1a63ebbcefdcc851b6c",
+  "ui-icons_assets_3x.bundle": "844d0d20da7d1dd6674ae70f31f051f69a5a559800fc22a5871a1c84000fbed8",
+  "ui-icons_assets_4x.bundle": "372ad76a2fdee6809a5715399199733db4e153240bcce7de82294a4350444bd7",
+  "ui-icons_assets_common.bundle": "7e85fd786afdafe04145356f599f929cbcfb3876a643ccdf796973173ceabe14",
+  "ui-iconspriteatlases_assets_1x.bundle": "5423b87c51c175838404e0e19f9cb3d152bf008eaf2c2e7c2f6e1c305566a8a9",
+  "ui-iconspriteatlases_assets_2x.bundle": "7f62813c3f09d7f6a2eb555451e008ab9e068f33b536eaffa0977241fedc0e5e",
+  "ui-iconspriteatlases_assets_3x.bundle": "c0535401134b0fc2c7219283deb3c28b3f8eb5d96eb855ef827cd1eb051115d7",
+  "ui-iconspriteatlases_assets_4x.bundle": "4495a63c7123e0691e02c7e30819f5c7305f3400eaf302aaddbb067562a16cfd",
   "ui-mainmenu-assets_assets_all.bundle": "765628455b416d3af3b7572011381aa1d2bfefbc73cfae458138ac98b06adf86",
-  "ui-managercreationimages_assets_all.bundle": "1c9b9500426def79e06fab917f1a7d1fb753d76aee809e15918749423e4c5950",
+  "ui-managercreationimages_assets_all.bundle": "be19e3f09e32907f2f56bbc53f040f76c0fc3c6a2605f7e188e43ed9494dae17",
   "ui-prematch-backgrounds_assets_1x.bundle": "6712a06cc7a57969a52348b396cfbc2f7422c8c850efecd3746f847279f39e93",
   "ui-prematch-backgrounds_assets_2x.bundle": "05ebc6a05d0dcb15865479ca861212d5094b35fa86b763cef71475f7e5c9a315",
   "ui-prematch-backgrounds_assets_3x.bundle": "abc0bd9cecadb73f30799f09c8be5ee52d05b6259d6e5e99806df76ceb820902",
   "ui-prematch-backgrounds_assets_4x.bundle": "8588d3c519f54cadd8e477523e143701edccd15d79f3aa98b00164b1ed342010",
   "ui-prematch-backgrounds_assets_common.bundle": "9b4586d5e15309121257d10fc133cc12b4cfcdea395b27aa425c77938d7cbe2e",
   "ui-styles_assets_.bundle": "1ca70c0d77d357b9b0f079f1ecf7ecc885123387517569df33b5146d22eea987",
-  "ui-styles_assets_1x.bundle": "cd2f4a883ec9485f89021dd99364fa9dd6d4afc64e5580b79619400132c5d927",
-  "ui-styles_assets_2x.bundle": "04e5c016225efa25024c3275f7a657697cf98b2ecc657f21890fbaafe8605900",
-  "ui-styles_assets_3x.bundle": "f30f48b1b0e9e459497faca4ab1f91db7e6badaa38e5c4309c63b5d6fd813500",
-  "ui-styles_assets_4x.bundle": "34aa84362d9c71dbbc8a46ff73797f2fa2238179314aeea8ed856e22b9987d6c",
-  "ui-styles_assets_common.bundle": "21a642f5728aa3f8fff6d5b8ea55e0a30718c2b998eb107a20e10c8ead64b3eb",
-  "ui-styles_assets_default.bundle": "28d4f7195f2056e88011715a3695e6569fec8ce9d309cbe1f2ed6b6de17d2eee",
-  "ui-styles_assets_match.bundle": "ff0ea6076e56bbc076f98d8b8303425be4563b3133c2537a807402e0a52dedb7",
-  "ui-tablefactories_assets_all.bundle": "c2e34ebdc39da4a3acb856e994e9eb0effbc0dc7e966a3567c84e4bba646cd3b",
-  "ui-tableviews_assets_all.bundle": "90e56b4e006411f34b3f426f97bbeda7b985ab24abd627b29b8ebc35d56aadcd",
+  "ui-styles_assets_1x.bundle": "bc7f093ea2e49e43b9c3ee8c0ae669062e11a336dc2a311adc4f843014a38c4f",
+  "ui-styles_assets_2x.bundle": "acfd796d88a0132d74611b85bc498c704dbe9ceaa386e168a14f11f369f8ccf5",
+  "ui-styles_assets_3x.bundle": "728b158fb5242d62a8d6830ed300326b258f84eb07309f5437f0c9f3f4fbdd05",
+  "ui-styles_assets_4x.bundle": "2fa3bc97b6fd4368af982d6a87e105cad3f244fb181c0b5a07c827b584eed6e6",
+  "ui-styles_assets_common.bundle": "8a95687e800f996b0234d7c5a039da17e578f14834eeb97054aeaf138870baea",
+  "ui-styles_assets_default.bundle": "44f92ef5b5bc0537e3821cbf963aab2fa25563e1b9695895337d26cc0fc914a7",
+  "ui-styles_assets_match.bundle": "309a1834c44b3a5658f9488758f6b4e071bde8b9ebb02dabdd2a01880b834108",
+  "ui-tablefactories_assets_all.bundle": "0b4a3e6832df2a78d16ae0773e72038ff59b15590f967e2a2f4480d0b520fa73",
+  "ui-tableviews_assets_all.bundle": "398948cb49cf887623eed03db760fc35cd3ef44185cee4258498c6167df88aff",
   "ui-tacticalanimations_assets_all.bundle": "b53396d2b1b374c7ea7aa6d54f3b2bc2dbd80d055a8562bfa015ae18ac0524fe",
-  "ui-textures_assets_all.bundle": "cf1183ee9ab9832b065875caa5f36327f38dfacbbd8757057b87e551c181ce3c",
-  "ui-tileslayouts_assets_all.bundle": "dd934510ec9b71e67e0b478a674aefca5bfb118c523525d1eb51cf8e53fff171",
-  "ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle": "8fcc2f2747400e1cdd49891957117383399e44f7729b9078ef89458d19916817",
-  "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle": "5b017cad4954625832dc8ad1bb2e30c8fa61acec9fa942bec307ae789609a84c",
-  "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle": "6ed36b0dbfd9a8e4256d5f771c54c899df4557cf7576cee9bda2a0a652c28b8b",
-  "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle": "e0bf606b0f66c8376eac76dcb00b728d8474f66e5acb40afdc71a88d87dba00b",
-  "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle": "dfee9f861ede9f72f464f0abec31aad38caa30924c2db88343cb23ca3d5afba4",
-  "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle": "cf7f5e6b25b45668da7db634d95a5a785e8ce601f11a2b5e566a3ccc54e8f7b2",
+  "ui-textures_assets_all.bundle": "fc81e51a5a03ab3f6e736e1f71b3c03ebccc94afe5b54615a9048318def27c6e",
+  "ui-tileslayouts_assets_all.bundle": "569666607b04449dd48c00390615b196c0218889c406a6cb0d46d5754d0792e6",
+  "ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle": "10d30e6c23a856daa109d4ca29091e0594a9533f8e92e7e63901ae15b8df90e3",
+  "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle": "1618945bc2fd70fa234d61ee35b4802012b56fdf3b2bbaca062bdaad732059d2",
+  "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle": "9912a5b1b264112739dff1487414725dd5277ad87bab5526291ea751b2859559",
+  "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle": "c38a51973f1e01f73c94b44ac3e487f2159fb426bbe48deaa0780420c201feab",
+  "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle": "43d2c751c7071565887f6b6d11432c004341e6d0f242168448bd02ed80c4d835",
+  "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle": "25fad901a77a442afb2c04a967cb0338590aa6a8ca37d90d0b3846fbb2a0667e",
   "art-characters-shared-player_assets_all.bundle": "c00f7ad50bff41a189a6d9010125391e8a2dd45522925a33cbddd362c4c27413",
-  "adboards_assets_all.bundle": "ba80d9377641f56ca07e77280f7422d7dbd71c0006462d8d643390e63dc56e9a",
+  "adboards_assets_all.bundle": "d9ae51c470167a87f14b0980831971ac748c49a6e80f1865d4a458f82a50624e",
+  "portraits_assets_all.bundle": "6169adb6cc234dd086bf981e5a54aa95aa113ad6355d4c75c735492692abdbaf",
   "videos-pc_assets_all.bundle": "0a02b0a2662b7d3fe395f19ceb637ad87d6aec5bfbff4e2a8739e23396332d34"
  },
  "contatore": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/contatore.txt",
@@ -400,13 +387,13 @@
   "sha256": "59fa92b8ab6215a588c4fa1965b8a0f13dc033f43462b0f8b6f6c6f95da68ba7",
   "sorgente_sha256": "17c3ab4e6c1e887300b753d65ef673fa31d574dcef91cb7881599e4e7771201d"
  },
- "cartelloni": {
-  "nome": "adboards_assets_all.bundle",
+ "newgen": {
+  "nome": "portraits_assets_all.bundle",
   "cartella": "fm_Data/StreamingAssets/AddrData",
-  "dimensione": 294719743,
-  "sha256": "9d55c6811fab8b40609dfefaab59fe1122f86ad23a7319114a1de930a08ac1c1",
-  "asset": "9d55c6811fab_adboards_assets_all.bundle",
-  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/9d55c6811fab_adboards_assets_all.bundle",
-  "originale": "ba80d9377641f56ca07e77280f7422d7dbd71c0006462d8d643390e63dc56e9a"
+  "dimensione": 182846090,
+  "sha256": "cc19bb16839ad44dddfa1a355424cd40de69b053e1097697fd95f2470113e966",
+  "asset": "cc19bb16839a_portraits_assets_all.bundle",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/cc19bb16839a_portraits_assets_all.bundle",
+  "originale": "6169adb6cc234dd086bf981e5a54aa95aa113ad6355d4c75c735492692abdbaf"
  }
 }
