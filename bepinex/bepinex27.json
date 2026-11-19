@@ -1,9 +1,9 @@
 {
  "formato": 1,
  "versione": "6.0.0-be.791",
- "data": "14/11/2026",
+ "data": "19/11/2026",
  "gioco": {
-  "steamBuild": "26577676"
+  "steamBuild": "26620374"
  },
  "pacchetto": {
   "asset": "b3cca6f6ef55_BepInEx-FM27.zip",
