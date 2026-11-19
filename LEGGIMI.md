@@ -5,7 +5,7 @@ Questo repository contiene SOLO i file che l'app scarica e controlla con le impr
 | Dove | Cosa |
 |---|---|
 | `nofake/nofake27.json` + release `nofake` | i No Fake (FMScout, Sortitoutsi) |
-| `skin/skin27.json` + release `skin` | la skin BeppEmre V 1.0: bundle, cartelloni, viste, licenze dei caratteri |
+| `skin/skin27.json` + release `skin` | la skin BeppEmre V 2.0: bundle, cartelloni, newgen, viste, licenze dei caratteri |
 | `bepinex/bepinex27.json` + release `bepinex` | BepInEx, il caricatore dei plugin |
 | `plugin/plugin27.json` + release `plugin` | i plugin FM27 di BeppEmre |
 
