@@ -1,8 +1,8 @@
 {
  "formato": 1,
  "skin": "BeppEmre Skin V 2.0",
- "versione": "2.1",
- "data": "19/11/2026",
+ "versione": "2.2",
+ "data": "20/11/2026",
  "gioco": {
   "versione": "27.1.0",
   "steamBuild": "26620374"
@@ -108,10 +108,10 @@
   },
   {
    "nome": "ui-styles_assets_default.bundle",
-   "dimensione": 10590373,
-   "sha256": "15b51d6b726d6851041cb7c5fb42f2d33b7a31b9ddc0c9ac25f27f18bc0548d6",
-   "asset": "15b51d6b726d_ui-styles_assets_default.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/15b51d6b726d_ui-styles_assets_default.bundle"
+   "dimensione": 10592996,
+   "sha256": "b8d1156297621a2c4e1b9f0bfb69db2f18841fa81b9390ea6ad96e4012d50dbf",
+   "asset": "b8d115629762_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/b8d115629762_ui-styles_assets_default.bundle"
   },
   {
    "nome": "ui-tablefactories_assets_all.bundle",
@@ -143,10 +143,10 @@
   },
   {
    "nome": "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "dimensione": 9540256,
-   "sha256": "32bc8ce200f61eec5d7f34f3a0bcf199905d3c4a297a6af63bb4bdada7cf1b1d",
-   "asset": "32bc8ce200f6_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/32bc8ce200f6_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
+   "dimensione": 9540339,
+   "sha256": "ee294ced8ed463cd7acc5b73343d129c02dbe04c224dd9d43faa1ea581b35b24",
+   "asset": "ee294ced8ed4_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/ee294ced8ed4_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
@@ -386,6 +386,15 @@
   "dimensione": 125936,
   "sha256": "59fa92b8ab6215a588c4fa1965b8a0f13dc033f43462b0f8b6f6c6f95da68ba7",
   "sorgente_sha256": "17c3ab4e6c1e887300b753d65ef673fa31d574dcef91cb7881599e4e7771201d"
+ },
+ "cartelloni": {
+  "nome": "adboards_assets_all.bundle",
+  "cartella": "fm_Data/StreamingAssets/AddrData",
+  "dimensione": 414507018,
+  "sha256": "45f638bc26afb9389c6c5972c56fe407ba3e3d515fa5c9ef1eb2c66e1e2d77e2",
+  "asset": "45f638bc26af_adboards_assets_all.bundle",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/45f638bc26af_adboards_assets_all.bundle",
+  "originale": "d9ae51c470167a87f14b0980831971ac748c49a6e80f1865d4a458f82a50624e"
  },
  "newgen": {
   "nome": "portraits_assets_all.bundle",
