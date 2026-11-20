@@ -270,7 +270,7 @@
    "numero": 5,
    "nome": "Distinte pre-partita",
    "cartella": "FM27 - Plugin 05 - Distinte pre-partita",
-   "versione": "1.1.1",
+   "versione": "1.1.2",
    "descrizione": "Il prima della partita come in TV: la card del Matchday con lo stadio vero, la sfida in panchina e la scritta DERBY nei derby, le distinte con i reparti che entrano uno dopo l'altro e la classifica con le due squadre in campo oggi.",
    "facoltativo": true,
    "automatico": false,
@@ -279,17 +279,17 @@
     "steamBuild": "26620374"
    },
    "pacchetto": {
-    "asset": "01da2a39bb12_plugin05.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/01da2a39bb12_plugin05.zip",
-    "dimensione": 3310330,
-    "sha256": "01da2a39bb12a1aa7dc8515984033d6231c926543f86ba907eaa9aab89c7eb3c"
+    "asset": "416dcec4e248_plugin05.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/416dcec4e248_plugin05.zip",
+    "dimensione": 3309640,
+    "sha256": "416dcec4e24814a6c985f1389c2cc5c3e22693d9a3d4120b135e10144edf609e"
    },
    "file": {
-    "FM27 - Plugin 05 - Distinte pre-partita/BeppEmre-FM27-Plugin05-Distinte.dll": "c35ecb32259bec8824bd0d3d6064eca3afd2da632dc374f9b8a6c58547d31898",
-    "FM27 - Plugin 05 - Distinte pre-partita/plugin.json": "8f501c477e2e920fb62032e15703f48aa584c5f044748b5244282ae1f2c18e76",
-    "FM27 - Plugin 05 - Distinte pre-partita/LEGGIMI.txt": "cb757878b737d9781983d027d51ad01f1d0c360d831622619b20ec561a0fcbce"
+    "FM27 - Plugin 05 - Distinte pre-partita/BeppEmre-FM27-Plugin05-Distinte.dll": "eee85ffb3420a02fed613b808b7dc536a8049422cf5a86300a4a18b335ec689a",
+    "FM27 - Plugin 05 - Distinte pre-partita/plugin.json": "1b975c911058dfd50e4847489ea2f3b9975cd37ea35e678db33d03070d3f4432",
+    "FM27 - Plugin 05 - Distinte pre-partita/LEGGIMI.txt": "28c55f293b143ea64ce535c677d920c916cd4c507d51dd28021b571c51ef90e0"
    },
-   "sorgenti": "da640d98421933cc7d883bd6926e73d9b6214215f348129513959e0de9a25358",
+   "sorgenti": "8f235fa0eaa9010d50304696b763cc7f8e342240f60e7e6d3dd7172439ff4d4b",
    "anteprime": [
     {
      "asset": "fea57c30b13a_plugin05-1.jpg",
@@ -340,7 +340,7 @@
    "numero": 6,
    "nome": "Scoreboard e popup",
    "cartella": "FM27 - Plugin 06 - Scoreboard e popup",
-   "versione": "1.1.0",
+   "versione": "1.1.1",
    "descrizione": "La partita come in TV: il tabellone a due tessere con tempo, sigle, colori sociali, barra dei minuti, recupero e VAR; poi i popup di gol, cartellini, cambi e VAR, la diretta gol dagli altri campi e la classifica live.",
    "facoltativo": true,
    "automatico": false,
@@ -349,17 +349,17 @@
     "steamBuild": "26620374"
    },
    "pacchetto": {
-    "asset": "5679250f6053_plugin06.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/5679250f6053_plugin06.zip",
-    "dimensione": 830416,
-    "sha256": "5679250f60537b246d529301ceca0a086d4e4fd9456246b074d75ce42a539329"
+    "asset": "4c11d4cab5d5_plugin06.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/4c11d4cab5d5_plugin06.zip",
+    "dimensione": 18412996,
+    "sha256": "4c11d4cab5d58826c004b0a9962347ea9a6b128216836f9e1ade7290747e8af7"
    },
    "file": {
-    "FM27 - Plugin 06 - Scoreboard e popup/BeppEmre-FM27-Plugin06-Scoreboard.dll": "670604fab19317261947e0c808a8f283d35b73f8e3d41392804bdebff89cce75",
-    "FM27 - Plugin 06 - Scoreboard e popup/plugin.json": "c5ca387c318c0a2f079dd99a61e0da1f68df3baae5b19073b0834c785feb4ee1",
-    "FM27 - Plugin 06 - Scoreboard e popup/LEGGIMI.txt": "c50929b460d22ff75d488ec9fe257f4065c106d532fcf2c2a5b19603ee621d13"
+    "FM27 - Plugin 06 - Scoreboard e popup/BeppEmre-FM27-Plugin06-Scoreboard.dll": "1e2e318a7cc18fd7077537a00e1765023777115c6000aad1492f54561cad9561",
+    "FM27 - Plugin 06 - Scoreboard e popup/plugin.json": "b8fcaa22abfa9f266eed4a574d3b414d4bda9defe1823ca3d68c4a90b181bc7a",
+    "FM27 - Plugin 06 - Scoreboard e popup/LEGGIMI.txt": "972d23d9a2a1dc80037f56898090e42665cbd4efab8ae34f50c0067be1963c8d"
    },
-   "sorgenti": "7a0bb711f68a4fcbaebcccc095f5b5d33fdc6fb11518b78b9394d8601de75972",
+   "sorgenti": "cf7a673e2bbdf73c409138f774784992bcb93103199f961b12b343f64decc2ff",
    "anteprime": [
     {
      "asset": "3a0cf9a2f124_plugin06-1.jpg",
