@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "aggiornato": "20/11/2026",
+ "aggiornato": "21/11/2026",
  "cartella": "BepInEx/plugins/BeppEmre",
  "comune": {
   "versione": "2026.11.19",
@@ -340,26 +340,26 @@
    "numero": 6,
    "nome": "Scoreboard e popup",
    "cartella": "FM27 - Plugin 06 - Scoreboard e popup",
-   "versione": "1.1.1",
+   "versione": "1.1.2",
    "descrizione": "La partita come in TV: il tabellone a due tessere con tempo, sigle, colori sociali, barra dei minuti, recupero e VAR; poi i popup di gol, cartellini, cambi e VAR, la diretta gol dagli altri campi e la classifica live.",
    "facoltativo": true,
    "automatico": false,
-   "data": "20/11/2026",
+   "data": "21/11/2026",
    "gioco": {
     "steamBuild": "26620374"
    },
    "pacchetto": {
-    "asset": "4c11d4cab5d5_plugin06.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/4c11d4cab5d5_plugin06.zip",
-    "dimensione": 18412996,
-    "sha256": "4c11d4cab5d58826c004b0a9962347ea9a6b128216836f9e1ade7290747e8af7"
+    "asset": "f4344a7ba964_plugin06.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/f4344a7ba964_plugin06.zip",
+    "dimensione": 18413758,
+    "sha256": "f4344a7ba964447a4d55a911a76efa2607feffff30429f72e0b60cda6acd7f3f"
    },
    "file": {
-    "FM27 - Plugin 06 - Scoreboard e popup/BeppEmre-FM27-Plugin06-Scoreboard.dll": "1e2e318a7cc18fd7077537a00e1765023777115c6000aad1492f54561cad9561",
-    "FM27 - Plugin 06 - Scoreboard e popup/plugin.json": "b8fcaa22abfa9f266eed4a574d3b414d4bda9defe1823ca3d68c4a90b181bc7a",
-    "FM27 - Plugin 06 - Scoreboard e popup/LEGGIMI.txt": "972d23d9a2a1dc80037f56898090e42665cbd4efab8ae34f50c0067be1963c8d"
+    "FM27 - Plugin 06 - Scoreboard e popup/BeppEmre-FM27-Plugin06-Scoreboard.dll": "21cc0f4fe45da73afba1e421cfc7511e984cb30703f3ea8ea69b2dc075c7189c",
+    "FM27 - Plugin 06 - Scoreboard e popup/plugin.json": "45ae6abfe31cf6cbc48266d1855f6271954ab6844ebf8981752922b64c4a8093",
+    "FM27 - Plugin 06 - Scoreboard e popup/LEGGIMI.txt": "e400e80edfd20e88ba6563c01e76379d0a5b0d99febc17c63014ca476f8135d0"
    },
-   "sorgenti": "cf7a673e2bbdf73c409138f774784992bcb93103199f961b12b343f64decc2ff",
+   "sorgenti": "1e7726c6b2a1e7517cfea5e484118810b5255c30ddb607fd0a36546c7ae5ee6d",
    "anteprime": [
     {
      "asset": "3a0cf9a2f124_plugin06-1.jpg",
