@@ -1,0 +1,13 @@
+{
+ "formato": 1,
+ "versione": "2.0.1",
+ "data": "24/11/2026",
+ "note": "Versione per FM27 27.1.1",
+ "exe": {
+  "nome": "FM27 App Skin BeppEmre + Plugin.exe",
+  "dimensione": 11372544,
+  "sha256": "4d59c0b2bd3adf8c0123aa1420c5ea01f6ec572d8b8ebd88aa5e70cae86b1d95",
+  "asset": "4d59c0b2bd3a_FM27-App.exe",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/app/4d59c0b2bd3a_FM27-App.exe"
+ }
+}

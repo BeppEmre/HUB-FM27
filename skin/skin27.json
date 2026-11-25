@@ -1,0 +1,399 @@
+{
+ "formato": 1,
+ "skin": "BeppEmre Skin V 2.0",
+ "versione": "3.3",
+ "data": "24/11/2026",
+ "gioco": {
+  "versione": "27.1.1",
+  "steamBuild": "26797085"
+ },
+ "file": [
+  {
+   "nome": "art-characters-shared-player_assets_all.bundle",
+   "dimensione": 5889329,
+   "sha256": "c21db40ad389114633b170d3db54ba97b4f1ce6a795277c1d9da46878d073082",
+   "asset": "c21db40ad389_art-characters-shared-player_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c21db40ad389_art-characters-shared-player_assets_all.bundle"
+  },
+  {
+   "nome": "ui-backgrounds_assets_.bundle",
+   "dimensione": 47743803,
+   "sha256": "8bc78301f675a95b7f896cde744c988e49a0e0fafc81dfd3e8bc60b2685d17d4",
+   "asset": "8bc78301f675_ui-backgrounds_assets_.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/8bc78301f675_ui-backgrounds_assets_.bundle"
+  },
+  {
+   "nome": "ui-backgrounds_assets_common.bundle",
+   "dimensione": 76643819,
+   "sha256": "1e90214b4b4ea6c28086cfe221d6cd1ced1c1b7b3fe3f26534fd6de9521bbd89",
+   "asset": "1e90214b4b4e_ui-backgrounds_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1e90214b4b4e_ui-backgrounds_assets_common.bundle"
+  },
+  {
+   "nome": "ui-datacollections_assets_all.bundle",
+   "dimensione": 146416,
+   "sha256": "f816faa5f141c60098d7fb109291973df45697d512bcf1c04341cbb41cb3399c",
+   "asset": "f816faa5f141_ui-datacollections_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/f816faa5f141_ui-datacollections_assets_all.bundle"
+  },
+  {
+   "nome": "ui-fonts_assets_fmuniverse.bundle",
+   "dimensione": 265677,
+   "sha256": "c68bcc53b290a7c3cfd222f10d1f45e4d595396fef5b2cd82f8c735b4ae773c6",
+   "asset": "c68bcc53b290_ui-fonts_assets_fmuniverse.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c68bcc53b290_ui-fonts_assets_fmuniverse.bundle"
+  },
+  {
+   "nome": "ui-fonts_assets_production.bundle",
+   "dimensione": 17050171,
+   "sha256": "58a8beba2aca0c9d3ba59033b6362e4ef41844605cbdb30fb60d4042641e6bdc",
+   "asset": "58a8beba2aca_ui-fonts_assets_production.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/58a8beba2aca_ui-fonts_assets_production.bundle"
+  },
+  {
+   "nome": "ui-fonts_assets_uefa_uwcl.bundle",
+   "dimensione": 141114,
+   "sha256": "d7e22db3578b39332b75849670c92032c862c1f0d779ca8828e37c15fdb8f0fc",
+   "asset": "d7e22db3578b_ui-fonts_assets_uefa_uwcl.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/d7e22db3578b_ui-fonts_assets_uefa_uwcl.bundle"
+  },
+  {
+   "nome": "ui-icons_assets_common.bundle",
+   "dimensione": 1261558,
+   "sha256": "cca7c232e575fb826b47dc9be7550696a47451f2d47d737e884d6a397a8170c0",
+   "asset": "cca7c232e575_ui-icons_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/cca7c232e575_ui-icons_assets_common.bundle"
+  },
+  {
+   "nome": "ui-iconspriteatlases_assets_1x.bundle",
+   "dimensione": 3405027,
+   "sha256": "8d7506d6d4b5f8a4083c54d0bbf016a80573065de1bc2d66d84a9c1aecd65a28",
+   "asset": "8d7506d6d4b5_ui-iconspriteatlases_assets_1x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/8d7506d6d4b5_ui-iconspriteatlases_assets_1x.bundle"
+  },
+  {
+   "nome": "ui-iconspriteatlases_assets_2x.bundle",
+   "dimensione": 7709630,
+   "sha256": "858d08b4868ba3afce810da3151ef95f74c309269b5ff2d1d08132a5a07b530c",
+   "asset": "858d08b4868b_ui-iconspriteatlases_assets_2x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/858d08b4868b_ui-iconspriteatlases_assets_2x.bundle"
+  },
+  {
+   "nome": "ui-iconspriteatlases_assets_3x.bundle",
+   "dimensione": 11452615,
+   "sha256": "60b02b94f0fdb81cfc83fd94eb345cfe083f9a22212f18f52df2565bd0ba1dfb",
+   "asset": "60b02b94f0fd_ui-iconspriteatlases_assets_3x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/60b02b94f0fd_ui-iconspriteatlases_assets_3x.bundle"
+  },
+  {
+   "nome": "ui-iconspriteatlases_assets_4x.bundle",
+   "dimensione": 15078452,
+   "sha256": "06a9cd01d3d087d4b4b0106c3fa719b6e7cbb84f15aab9e45e10faab48ceb458",
+   "asset": "06a9cd01d3d0_ui-iconspriteatlases_assets_4x.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/06a9cd01d3d0_ui-iconspriteatlases_assets_4x.bundle"
+  },
+  {
+   "nome": "ui-mainmenu-assets_assets_all.bundle",
+   "dimensione": 4786481,
+   "sha256": "1f4c40f3b43113b3c807f0e385087548b68b0bcda63ecfa7837cc08679550e1f",
+   "asset": "1f4c40f3b431_ui-mainmenu-assets_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/1f4c40f3b431_ui-mainmenu-assets_assets_all.bundle"
+  },
+  {
+   "nome": "ui-styles_assets_common.bundle",
+   "dimensione": 339001,
+   "sha256": "fbc8e1d373a85c04232adc142138d80a6274742c9b47fbbd3c5dbb2256109c52",
+   "asset": "fbc8e1d373a8_ui-styles_assets_common.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/fbc8e1d373a8_ui-styles_assets_common.bundle"
+  },
+  {
+   "nome": "ui-styles_assets_default.bundle",
+   "dimensione": 10600334,
+   "sha256": "c2bc189236adb08ee2fab24204cfa0bf8f761a714f3c6fa6456893cc8b80dc0b",
+   "asset": "c2bc189236ad_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c2bc189236ad_ui-styles_assets_default.bundle"
+  },
+  {
+   "nome": "ui-tablefactories_assets_all.bundle",
+   "dimensione": 188307,
+   "sha256": "200db43afd8ce5304be5470315cd460fb9bdc2ece9bc00b77b0e45149cee170e",
+   "asset": "200db43afd8c_ui-tablefactories_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/200db43afd8c_ui-tablefactories_assets_all.bundle"
+  },
+  {
+   "nome": "ui-tableviews_assets_all.bundle",
+   "dimensione": 364110,
+   "sha256": "59a810de69151ddb5273bfa2810f00b54c232be271115e17eca72850962c4269",
+   "asset": "59a810de6915_ui-tableviews_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/59a810de6915_ui-tableviews_assets_all.bundle"
+  },
+  {
+   "nome": "ui-textures_assets_all.bundle",
+   "dimensione": 12444463,
+   "sha256": "c2115bc18e962dc301c94444247191f261eac7d501c47db915c4fb76c97fac05",
+   "asset": "c2115bc18e96_ui-textures_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c2115bc18e96_ui-textures_assets_all.bundle"
+  },
+  {
+   "nome": "ui-tileslayouts_assets_all.bundle",
+   "dimensione": 942769,
+   "sha256": "31b339986f239d7825c0a4753157323774db17a400ce48ba84eba9e564437b8f",
+   "asset": "31b339986f23_ui-tileslayouts_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/31b339986f23_ui-tileslayouts_assets_all.bundle"
+  },
+  {
+   "nome": "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "dimensione": 9536509,
+   "sha256": "eb5d56541cf5748f6de2e0c82a0f1a6a092fed5c254c720ab979cf13a2f35c71",
+   "asset": "eb5d56541cf5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/eb5d56541cf5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
+  },
+  {
+   "nome": "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
+   "dimensione": 3784090,
+   "sha256": "2792919541a1f53ca00d1dd7a8d7fa4914eda9c47cbc144f49c17917e29ee4c2",
+   "asset": "2792919541a1_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/2792919541a1_ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle"
+  },
+  {
+   "nome": "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
+   "dimensione": 151460,
+   "sha256": "e52c53d17f1cff0b49eb43dfe936dfc75273e0d33f6b214acd050e774859f8f6",
+   "asset": "e52c53d17f1c_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/e52c53d17f1c_ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle"
+  },
+  {
+   "nome": "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
+   "dimensione": 545243,
+   "sha256": "ff0c0fe85a75be19240db7fbb1b071fec41957c9fc68cb0f3d2c59b2bcfe8b36",
+   "asset": "ff0c0fe85a75_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/ff0c0fe85a75_ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle"
+  },
+  {
+   "nome": "videos-pc_assets_all.bundle",
+   "dimensione": 2049336,
+   "sha256": "833c99c4a521bd50326987f0ee50293d1eae3e9e958945ad6341a80ce97e4973",
+   "asset": "833c99c4a521_videos-pc_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/833c99c4a521_videos-pc_assets_all.bundle"
+  }
+ ],
+ "viste": {
+  "asset": "a647f879b0e2_viste.zip",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/a647f879b0e2_viste.zip",
+  "dimensione": 8883,
+  "sha256": "a647f879b0e2e2e76ac990a6df716d9b2ba76135630f9a1fe19309e43111b06e",
+  "elenco": [
+   {
+    "cartella": "Ricerca giocatori",
+    "collezione": "PlayerSearchResultsViewCollection",
+    "nome": "Moneyball Attaccanti by BeppEmre.json",
+    "dimensione": 7253,
+    "sha256": "d65cc463ae6803160ba775035021c63d8fd6d4bbf5f128597c536d1581abea4b"
+   },
+   {
+    "cartella": "Ricerca giocatori",
+    "collezione": "PlayerSearchResultsViewCollection",
+    "nome": "Moneyball Centrocampisti by BeppEmre.json",
+    "dimensione": 7308,
+    "sha256": "0e6d49ef8363dead346825873d28bf4ef04564d1981a5afec0f182f4014d0cdc"
+   },
+   {
+    "cartella": "Ricerca giocatori",
+    "collezione": "PlayerSearchResultsViewCollection",
+    "nome": "Moneyball Difensori by BeppEmre.json",
+    "dimensione": 7637,
+    "sha256": "454143684ea928629de3f3ce7c00effb69430f24df2496f6d1bf53964e12a3bd"
+   },
+   {
+    "cartella": "Ricerca giocatori",
+    "collezione": "PlayerSearchResultsViewCollection",
+    "nome": "Moneyball Portieri by BeppEmre.json",
+    "dimensione": 6609,
+    "sha256": "4c2413bfd6098014372b0b23bd2aa4ca6bc605a459409b170a085d885cfb6fad"
+   },
+   {
+    "cartella": "Ricerca staff",
+    "collezione": "NonPlayerSearchResultsViewCollection",
+    "nome": "Staff Allenatori by BeppEmre.json",
+    "dimensione": 6576,
+    "sha256": "2e8ebc1e8432467d9fb795dd85a8a00400f6eeb7bd0aea391e91a2a3b9ca2386"
+   },
+   {
+    "cartella": "Ricerca staff",
+    "collezione": "NonPlayerSearchResultsViewCollection",
+    "nome": "Staff Dirigenti by BeppEmre.json",
+    "dimensione": 5321,
+    "sha256": "b9cdd72c8362711d676a44c0b18ef5d66add80ff1c65822d0bef2c46930c1582"
+   },
+   {
+    "cartella": "Ricerca staff",
+    "collezione": "NonPlayerSearchResultsViewCollection",
+    "nome": "Staff Medici by BeppEmre.json",
+    "dimensione": 4686,
+    "sha256": "64d9d750e29c3ef7d940fa30389e8cafa3202edb1e50449912adbdd3cd733f93"
+   },
+   {
+    "cartella": "Ricerca staff",
+    "collezione": "NonPlayerSearchResultsViewCollection",
+    "nome": "Staff Osservatori by BeppEmre.json",
+    "dimensione": 4706,
+    "sha256": "2328b0291d8f341d187b43353e616367a746a59cba3d14ca39a761379c17393f"
+   },
+   {
+    "cartella": "Rosa",
+    "collezione": "FirstTeamSquadAndYouthTeamSquadCollection",
+    "nome": "Moneyball Attaccanti by BeppEmre.json",
+    "dimensione": 6632,
+    "sha256": "3ccc77f9747169650a351537a9de91f194a996b53723d5898596225b9b2b1935"
+   },
+   {
+    "cartella": "Rosa",
+    "collezione": "FirstTeamSquadAndYouthTeamSquadCollection",
+    "nome": "Moneyball Centrocampisti by BeppEmre.json",
+    "dimensione": 6687,
+    "sha256": "27e1119eacbfd651cc3ab64d28d808a4ca1f8fc87d98f006943e77aef0d78c87"
+   },
+   {
+    "cartella": "Rosa",
+    "collezione": "FirstTeamSquadAndYouthTeamSquadCollection",
+    "nome": "Moneyball Difensori by BeppEmre.json",
+    "dimensione": 7016,
+    "sha256": "36c42789f11f96d75734d1ee58420838dd7c670c20c73544befa473496f87c9d"
+   },
+   {
+    "cartella": "Rosa",
+    "collezione": "FirstTeamSquadAndYouthTeamSquadCollection",
+    "nome": "Moneyball Portieri by BeppEmre.json",
+    "dimensione": 5988,
+    "sha256": "66bbeb7f2384595b0d017a526d27ff9e6d14fbf1fa84c446bbe99901f669916f"
+   }
+  ]
+ },
+ "licenze": {
+  "asset": "c468e5d4a34d_licenze.zip",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c468e5d4a34d_licenze.zip",
+  "dimensione": 6194,
+  "sha256": "c468e5d4a34d596389507e3037d90c533354d84e05106230fe862fbf211aaab9"
+ },
+ "disposizioni": [
+  "CalendarToolFixturesGridComposition-Large",
+  "ClubBoardCardGridComposition-Large",
+  "ClubComposition-Large",
+  "ClubFinancesCardGridComposition-Large",
+  "ClubFinancesSummaryCardGridComposition",
+  "ClubHistoryCardGridComposition",
+  "ClubSupportersCardGridComposition-Large",
+  "CompetitionStagesCardStagesGridComposition-Large",
+  "ContractNegotiationPromisesGridComposition_Large",
+  "FeedbackCardPerformanceGridComposition-Large",
+  "FeedbackCardRecruitmentGridComposition-Large",
+  "MedicalCentreCurrentInjuriesReportGridComposition-Large",
+  "NonPlayerReportOverviewGridComposition-Large",
+  "NonPlayerReportPreviewTooltipGridComposition",
+  "OverviewTabGridComposition-Large",
+  "PersonBiographyCardGridComposition-Large",
+  "PlayerContractCardUserOwnedGridComposition-Large",
+  "PlayerReportOverviewComposition-Large",
+  "PlayerReportPersonal-Large",
+  "PlayerReportTooltipGridComposition",
+  "PlayerSearchReportGridCompositionBottomBarLarge",
+  "PlayingTimeCardGridComposition-Large",
+  "Portal-Large",
+  "RecruitmentComposition-Large",
+  "RecruitmentContractsCardGridComposition-Large",
+  "RecruitmentObjectivesCardGridComposition-Large",
+  "RecruitmentPlayerRecommendationsCardGridComposition-Large",
+  "RecruitmentScoutPrioritiesTilesGridComposition",
+  "RecruitmentScoutingBudgetCardGridComposition-Large",
+  "RecruitmentTeamTabGridComposition-Large",
+  "RecruitmentTransferBudgetsCardGridComposition-Large",
+  "RecruitmentTransferWindowCardGridComposition-Large",
+  "RecruitmentWageBudgetCardGridComposition-Large",
+  "SquadAtmosphereCardComposition-Large",
+  "SquadComposition-Large",
+  "StaffSearchReportBottomBarGridComposition",
+  "TrainingOverviewGridComposition-Large",
+  "TrainingOverviewNationGridComposition-Large",
+  "TransferHistoryCardGridComposition-Large",
+  "TransferOfferToolGridComposition-Large",
+  "TransferRoomInToolGridComposition-Large",
+  "TransferRoomOutToolGridComposition-Large",
+  "WorkPermitCardGridComposition-Large"
+ ],
+ "originali": {
+  "ui-backgrounds_assets_.bundle": "ffe5ebc6d0aaa2331320ab933ee83fe64b668f95f2ea0bd31094b3f3c4ab47bd",
+  "ui-backgrounds_assets_1x.bundle": "636ea2ad85fdf49383566a1ffba4a1f40bbf64e9718bb75be466901a66ebb5a0",
+  "ui-backgrounds_assets_2x.bundle": "ba43c4862d5125d441720370021c81ee0d345f80579e9b64a1c35376faf50ba1",
+  "ui-backgrounds_assets_3x.bundle": "e374045f928270856258eae81680ea5a5a71aad303d9294aad2b56783ad65d1f",
+  "ui-backgrounds_assets_4x.bundle": "20c5d91c7b49c2ae8b2deea0fc1b59345e640c51da8c97c72cb9f30bf8906713",
+  "ui-backgrounds_assets_common.bundle": "6d116e98c667cc9f992c69a06ac8a0531eddef566628e92710542929b08df28d",
+  "ui-datacollections_assets_all.bundle": "8aa059224502d02f729dda92e8afebdc53ae78613577898a89d16cd0f6dd91cf",
+  "ui-fonts_assets_assets_uiassets_fonts_licenced_fifa_worldcup.bundle": "197f605bfcf068f1e3cdba2e4b32ed4a38efb4d762ac1804f2d494827ddd77fd",
+  "ui-fonts_assets_bundesliga.bundle": "0596a00e01c1298093987e6a1f605aab8e7ddb50220237dd57b1e6836e66c816",
+  "ui-fonts_assets_efl.bundle": "dbd2cc136cc7fdeb78789e141765f4074ba06d972bb15aacd03fe39c66ad0acf",
+  "ui-fonts_assets_fmuniverse.bundle": "dfb129056c40446bdefc78dce474c81571eab5027602cfc6b497573db05fe6b9",
+  "ui-fonts_assets_premierleague.bundle": "8d41161094dcf4aea2af5d4c2590be7f4ed0df8d8d2f32543337173b9f809a3b",
+  "ui-fonts_assets_production.bundle": "d79466d88b4b11fe6f012aaf1a97e5f5677c9e95aa96f46ef0937c810f2aacef",
+  "ui-fonts_assets_uefa_championsleague.bundle": "ce85ac120a10a9305b87e6cf00f377b1b95d76034e48718412653c9d32a4b5bd",
+  "ui-fonts_assets_uefa_europa.bundle": "bf564f3778344c018a7cc880a38eba7d6f42535d0368e5aaa62cc4d407fb8b34",
+  "ui-fonts_assets_uefa_supercup.bundle": "2fb51926c5b667d14674b6052fbe30ce89ad9ecb24c27b18ce382d920d52b4de",
+  "ui-fonts_assets_uefa_uwcl.bundle": "83a03afe9c07d52f64a758e9afdf77b5310268e0f67c345114457c6fd2e31b17",
+  "ui-icons_assets_.bundle": "b2bba9907ab77cc2512bbda405c6fa5b41e33729708fdab46d01b8bde6e6858e",
+  "ui-icons_assets_1x.bundle": "ea9cd04739c620f7f6320d70e0c5b3184ebc0c1dc1e0f7ee428f215f3cddad91",
+  "ui-icons_assets_2x.bundle": "a8ecfaba4ab900c6626cffc8621d847a9b2eec4c1b50a1a63ebbcefdcc851b6c",
+  "ui-icons_assets_3x.bundle": "844d0d20da7d1dd6674ae70f31f051f69a5a559800fc22a5871a1c84000fbed8",
+  "ui-icons_assets_4x.bundle": "372ad76a2fdee6809a5715399199733db4e153240bcce7de82294a4350444bd7",
+  "ui-icons_assets_common.bundle": "7e85fd786afdafe04145356f599f929cbcfb3876a643ccdf796973173ceabe14",
+  "ui-iconspriteatlases_assets_1x.bundle": "5423b87c51c175838404e0e19f9cb3d152bf008eaf2c2e7c2f6e1c305566a8a9",
+  "ui-iconspriteatlases_assets_2x.bundle": "7f62813c3f09d7f6a2eb555451e008ab9e068f33b536eaffa0977241fedc0e5e",
+  "ui-iconspriteatlases_assets_3x.bundle": "c0535401134b0fc2c7219283deb3c28b3f8eb5d96eb855ef827cd1eb051115d7",
+  "ui-iconspriteatlases_assets_4x.bundle": "4495a63c7123e0691e02c7e30819f5c7305f3400eaf302aaddbb067562a16cfd",
+  "ui-mainmenu-assets_assets_all.bundle": "765628455b416d3af3b7572011381aa1d2bfefbc73cfae458138ac98b06adf86",
+  "ui-managercreationimages_assets_all.bundle": "be19e3f09e32907f2f56bbc53f040f76c0fc3c6a2605f7e188e43ed9494dae17",
+  "ui-prematch-backgrounds_assets_1x.bundle": "6712a06cc7a57969a52348b396cfbc2f7422c8c850efecd3746f847279f39e93",
+  "ui-prematch-backgrounds_assets_2x.bundle": "05ebc6a05d0dcb15865479ca861212d5094b35fa86b763cef71475f7e5c9a315",
+  "ui-prematch-backgrounds_assets_3x.bundle": "abc0bd9cecadb73f30799f09c8be5ee52d05b6259d6e5e99806df76ceb820902",
+  "ui-prematch-backgrounds_assets_4x.bundle": "8588d3c519f54cadd8e477523e143701edccd15d79f3aa98b00164b1ed342010",
+  "ui-prematch-backgrounds_assets_common.bundle": "9b4586d5e15309121257d10fc133cc12b4cfcdea395b27aa425c77938d7cbe2e",
+  "ui-styles_assets_.bundle": "1ca70c0d77d357b9b0f079f1ecf7ecc885123387517569df33b5146d22eea987",
+  "ui-styles_assets_1x.bundle": "bc7f093ea2e49e43b9c3ee8c0ae669062e11a336dc2a311adc4f843014a38c4f",
+  "ui-styles_assets_2x.bundle": "acfd796d88a0132d74611b85bc498c704dbe9ceaa386e168a14f11f369f8ccf5",
+  "ui-styles_assets_3x.bundle": "728b158fb5242d62a8d6830ed300326b258f84eb07309f5437f0c9f3f4fbdd05",
+  "ui-styles_assets_4x.bundle": "2fa3bc97b6fd4368af982d6a87e105cad3f244fb181c0b5a07c827b584eed6e6",
+  "ui-styles_assets_common.bundle": "8a95687e800f996b0234d7c5a039da17e578f14834eeb97054aeaf138870baea",
+  "ui-styles_assets_default.bundle": "44f92ef5b5bc0537e3821cbf963aab2fa25563e1b9695895337d26cc0fc914a7",
+  "ui-styles_assets_match.bundle": "309a1834c44b3a5658f9488758f6b4e071bde8b9ebb02dabdd2a01880b834108",
+  "ui-tablefactories_assets_all.bundle": "0b4a3e6832df2a78d16ae0773e72038ff59b15590f967e2a2f4480d0b520fa73",
+  "ui-tableviews_assets_all.bundle": "398948cb49cf887623eed03db760fc35cd3ef44185cee4258498c6167df88aff",
+  "ui-tacticalanimations_assets_all.bundle": "b53396d2b1b374c7ea7aa6d54f3b2bc2dbd80d055a8562bfa015ae18ac0524fe",
+  "ui-textures_assets_all.bundle": "fc81e51a5a03ab3f6e736e1f71b3c03ebccc94afe5b54615a9048318def27c6e",
+  "ui-tileslayouts_assets_all.bundle": "569666607b04449dd48c00390615b196c0218889c406a6cb0d46d5754d0792e6",
+  "ui-visualtreeassets_assets_fantasydraftvisualtreeassetpreload.bundle": "10d30e6c23a856daa109d4ca29091e0594a9533f8e92e7e63901ae15b8df90e3",
+  "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle": "aded80c3beedcd4be426bb673de0ad407aad0568a7ad92d64763b7fe3ee84aef",
+  "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle": "c176eea98119332512cd3e5ab1ee07a11e0e3c5b2e55cb6caa1f8ef54b69ed20",
+  "ui-visualtreeassets_assets_initvisualtreeassetpreload.bundle": "c38a51973f1e01f73c94b44ac3e487f2159fb426bbe48deaa0780420c201feab",
+  "ui-visualtreeassets_assets_introvisualtreeassetpreload.bundle": "43d2c751c7071565887f6b6d11432c004341e6d0f242168448bd02ed80c4d835",
+  "ui-visualtreeassets_assets_matchvisualtreeassetpreload.bundle": "25fad901a77a442afb2c04a967cb0338590aa6a8ca37d90d0b3846fbb2a0667e",
+  "art-characters-shared-player_assets_all.bundle": "c00f7ad50bff41a189a6d9010125391e8a2dd45522925a33cbddd362c4c27413",
+  "adboards_assets_all.bundle": "d9ae51c470167a87f14b0980831971ac748c49a6e80f1865d4a458f82a50624e",
+  "portraits_assets_all.bundle": "6169adb6cc234dd086bf981e5a54aa95aa113ad6355d4c75c735492692abdbaf",
+  "videos-pc_assets_all.bundle": "c98fbe1b2926d21e1bbde8eec26749b19a18eab95abf148ee86f2a1a4dbb86c5"
+ },
+ "contatore": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/contatore.txt",
+ "foto": {
+  "asset": "59fa92b8ab62_foto-skin.jpg",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/59fa92b8ab62_foto-skin.jpg",
+  "dimensione": 125936,
+  "sha256": "59fa92b8ab6215a588c4fa1965b8a0f13dc033f43462b0f8b6f6c6f95da68ba7",
+  "sorgente_sha256": "17c3ab4e6c1e887300b753d65ef673fa31d574dcef91cb7881599e4e7771201d"
+ },
+ "cartelloni": {
+  "nome": "adboards_assets_all.bundle",
+  "cartella": "fm_Data/StreamingAssets/AddrData",
+  "dimensione": 480600690,
+  "sha256": "7af0c1846e72c6e892234c2038ca07d258df8161dac81026c8cdd7289a93eca0",
+  "asset": "7af0c1846e72_adboards_assets_all.bundle",
+  "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/7af0c1846e72_adboards_assets_all.bundle",
+  "originale": "d9ae51c470167a87f14b0980831971ac748c49a6e80f1865d4a458f82a50624e"
+ }
+}

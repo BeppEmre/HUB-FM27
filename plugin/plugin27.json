@@ -1,0 +1,645 @@
+{
+ "formato": 1,
+ "aggiornato": "24/11/2026",
+ "cartella": "BepInEx/plugins/BeppEmre",
+ "comune": {
+  "versione": "2026.11.24",
+  "pacchetto": {
+   "asset": "71fff2d59b34_comune.zip",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/71fff2d59b34_comune.zip",
+   "dimensione": 1432,
+   "sha256": "71fff2d59b347a73e43c001a679dfccfc15d33e0de1e23bcb3e4a76f1cd0fe07"
+  },
+  "file": {
+   "Comune 2/adattatori/fm27.json": "2e267c49bfdaedc1c58a5158de4ed181bd35e5b354d102b7bf5aa9d29f9825f2"
+  }
+ },
+ "plugin": [
+  {
+   "id": "auto00",
+   "numero": 0,
+   "nome": "Banner YouTube",
+   "cartella": "FM27 - Plugin 00 - Banner",
+   "versione": "1.0.2",
+   "descrizione": "",
+   "facoltativo": false,
+   "automatico": true,
+   "data": "21/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "acc0b7669008_auto00.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/acc0b7669008_auto00.zip",
+    "dimensione": 69748,
+    "sha256": "acc0b76690084674e2e0def04f2b929ec8fa50847ac92da9417bc9291c552433"
+   },
+   "file": {
+    "FM27 - Plugin 00 - Banner/BeppEmre-FM27-Plugin00-Banner.dll": "2859c87188fcaf03703b3d08a6992e111be8705500aba4447a8f1affcd44c54d",
+    "FM27 - Plugin 00 - Banner/plugin.json": "c1db3e63bb972e94ad143c523c9bafb11a6c8407dd6bb3a72b22ae088a27ed95",
+    "FM27 - Plugin 00 - Banner/LEGGIMI.txt": "1eb704c13a56403d09c974fbfe0d0718efbb65ae92cf9b3a38da95804b25f326"
+   },
+   "sorgenti": "71ef8c50664cd80d9ecf338dac8a92b4b7caf844f9385914cac00dc9dd76c79e",
+   "anteprime": []
+  },
+  {
+   "id": "plugin00",
+   "numero": 0,
+   "nome": "Volto dell'allenatore",
+   "cartella": "FM27 - Plugin 00 - Volto",
+   "versione": "1.0.2",
+   "descrizione": "La tua foto al posto del volto del tuo allenatore. Si vede nel tuo profilo, in Società > Profilo e dove compare il tuo primo piano. La foto la prepari qui sopra.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "21/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "d722b35c202f_plugin00.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d722b35c202f_plugin00.zip",
+    "dimensione": 28931,
+    "sha256": "d722b35c202f6535e7f8a63a4c7aecb16ed2ce48099576aa4b8b889f6e40e989"
+   },
+   "file": {
+    "FM27 - Plugin 00 - Volto/BeppEmre-FM27-Plugin00-Volto.dll": "18f43a2094c31080d36288bd22b431f07227371128de8b54dcd06f6507486790",
+    "FM27 - Plugin 00 - Volto/plugin.json": "52e64e4127175328e82a29958dda498eae32e7a09bf17d282bc240638357cdb5",
+    "FM27 - Plugin 00 - Volto/LEGGIMI.txt": "d9826ea4a40ca10637afebb1c9054b5e341774ec87cdbc6422e26190e9939270"
+   },
+   "sorgenti": "f4d7c3f8b7b2047a4c029723b927e19a66018c0638569f8533749b0870929804",
+   "anteprime": []
+  },
+  {
+   "id": "plugin01",
+   "numero": 1,
+   "nome": "Anelli di condizione e forma",
+   "cartella": "FM27 - Plugin 01 - Condizione e forma",
+   "versione": "1.0.7",
+   "descrizione": "Condizione, forma partita e freschezza diventano anelli colorati con il valore al centro (TOP quando è al massimo, INF se è infortunato), in rosa, tattica, partita e profilo. Nelle classifiche la forma delle squadre diventa una fila di icone: vittoria, pareggio, sconfitta.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "23/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "22b6cf8610dd_plugin01.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/22b6cf8610dd_plugin01.zip",
+    "dimensione": 55850,
+    "sha256": "22b6cf8610dd00795c19535772401abf85d5303af31a813b7faf8f7b73e42c6c"
+   },
+   "file": {
+    "FM27 - Plugin 01 - Condizione e forma/BeppEmre-FM27-Plugin01-CondizioneForma.dll": "aac469f07c67c8673fd4b899e08591262e5b768bdaee67e68d99347dd5e5e9ba",
+    "FM27 - Plugin 01 - Condizione e forma/plugin.json": "27640dcdbb955efa55989a4f3e7138788998c58e08ce6628e0d0c5138b02ff61",
+    "FM27 - Plugin 01 - Condizione e forma/LEGGIMI.txt": "57b6ebf4a6b1bd207510ebdb976008bfa17fb4bb256a3f7906f7498165851407"
+   },
+   "sorgenti": "19b860f937562a4344b15105f1b547b5de107ebc10024b1137cda766fcea2229",
+   "anteprime": [
+    {
+     "asset": "c0e79bdf6ff9_plugin01-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/c0e79bdf6ff9_plugin01-1.jpg",
+     "dimensione": 257713,
+     "sha256": "c0e79bdf6ff97db645c48171ef13bdfcf6bc482c87713e2c0da7abc0b402566e",
+     "sorgente_sha256": "5fa2f9f4a02a69e495926e63845ccd696a233e6e2c62e59a263c7099dce20e1c"
+    },
+    {
+     "asset": "d0f5c2dd3d91_plugin01-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d0f5c2dd3d91_plugin01-2.jpg",
+     "dimensione": 201518,
+     "sha256": "d0f5c2dd3d9172380ffe6841cd003674970ad1d9b30afd1ee0b625950e909d81",
+     "sorgente_sha256": "b7a3c375015092539b578243b7e0ce10a57eafa22ddd1eea6e292996cb2c41bd"
+    },
+    {
+     "asset": "1c5cb6027094_plugin01-4.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/1c5cb6027094_plugin01-4.jpg",
+     "dimensione": 156802,
+     "sha256": "1c5cb60270949c2e4edc5c0e275da1983b465d139fd94a416944537638ae96a2",
+     "sorgente_sha256": "2b0a21720a7914889e4fa5e2e10a80f30e391453ac9a04de3931c52a7a43e524"
+    }
+   ]
+  },
+  {
+   "id": "plugin02",
+   "numero": 2,
+   "nome": "Foto stadi e città",
+   "cartella": "FM27 - Plugin 02 - Foto stadi",
+   "versione": "1.3.2",
+   "descrizione": "La foto dello stadio vero nella pagina della società e nel calendario, dietro la partita scelta. Nella pagina della società, la foto scorre: stadio esterno, stadio interno e città del club (quelle che hai nei tuoi pacchetti); nel calendario esterno e interno. Con la freccia del mouse sopra la foto si ferma, con un clic si apre grande. Lo stadio si riconosce dal suo numero nel gioco, quindi va con qualunque pacchetto di foto e qualunque No Fake. Se manca la foto compare una foto di riserva (anche per gli stadi nuovi costruiti in carriera).",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "704029ec556e_plugin02.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/704029ec556e_plugin02.zip",
+    "dimensione": 3251595,
+    "sha256": "704029ec556ee1ba17b2c6acf23d6c83a8fcba21265dfba1c148b6111e8f5f34"
+   },
+   "file": {
+    "FM27 - Plugin 02 - Foto stadi/BeppEmre-FM27-Plugin02-FotoStadi.dll": "6b5af01dc9b98b8cd49866cd248b27079c90ada83edf17f784272c8bf3371516",
+    "FM27 - Plugin 02 - Foto stadi/plugin.json": "d7e8a1647a80d23d92509929fc70d71adad9c11b29e75dce6f425786df58956b",
+    "FM27 - Plugin 02 - Foto stadi/LEGGIMI.txt": "b2290531b6ef5ede68005103b9a66e068b523c7eaddf387fbf22ac6e4e3515c5"
+   },
+   "sorgenti": "351196e5c45e5af99f2f1508b6cf365132c6dae19ea37c152da93f6cf73cbb29",
+   "anteprime": [
+    {
+     "asset": "73c96c64b9c8_plugin02-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/73c96c64b9c8_plugin02-1.jpg",
+     "dimensione": 259986,
+     "sha256": "73c96c64b9c8012fe06be66bc2d2183710a783aae31ca4eb35d12aa83ac8a7e5",
+     "sorgente_sha256": "ca021a18854b7d4271066732e6422a92c402c0e263198f29630aafcb0e26deb2"
+    },
+    {
+     "asset": "7f9ab292207e_plugin02-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/7f9ab292207e_plugin02-2.jpg",
+     "dimensione": 256301,
+     "sha256": "7f9ab292207efda8e80a9a0b0426bdd2c79bd25f2e7b6ccd27379ce188e42bc8",
+     "sorgente_sha256": "c41817515bdb72b1ef21be8af73f4e8c1a70cafb175666dc7bbd82c983bb5f69"
+    },
+    {
+     "asset": "1f18ea5189fa_plugin02-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/1f18ea5189fa_plugin02-3.jpg",
+     "dimensione": 253003,
+     "sha256": "1f18ea5189fa21ebdf8102b15994ae99b416fdb22b8fc03dfa85ac05096fcc9d",
+     "sorgente_sha256": "0494691b170f5bc486d53f7f8d408f4a7a8cc5cb889a6dd88f974eccfc35f112"
+    },
+    {
+     "asset": "f80c79c1bb5c_plugin02-4.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/f80c79c1bb5c_plugin02-4.jpg",
+     "dimensione": 310491,
+     "sha256": "f80c79c1bb5c03a0e2b8441633bf3707802cc7aadf277c3f28719eb1c38f1878",
+     "sorgente_sha256": "6b0e1ce063c09d5793481880d568dca8729b15340cd219d427dd53db585b5a72"
+    },
+    {
+     "asset": "7d9f2ba00f96_plugin02-5.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/7d9f2ba00f96_plugin02-5.jpg",
+     "dimensione": 201650,
+     "sha256": "7d9f2ba00f96cc2eb0b78689a89995b0a24c49e66ea63e9e9eec24405e3198dd",
+     "sorgente_sha256": "c8730935e589406dd21a282c24d99e2fc8d917f718598e859c3750433b2441d8"
+    },
+    {
+     "asset": "3a6f32f27a62_plugin02-6.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/3a6f32f27a62_plugin02-6.jpg",
+     "dimensione": 198436,
+     "sha256": "3a6f32f27a62bac8a14107740e2b385ac1f58b201e4ed39f0dc1261736404f63",
+     "sorgente_sha256": "c466846c5101d33904618305c1e648843599c424dd7e5371b7a96813c7d784f2"
+    }
+   ]
+  },
+  {
+   "id": "plugin03",
+   "numero": 3,
+   "nome": "Grafici finanze e storia campionato",
+   "cartella": "FM27 - Plugin 03 - Storia e finanze",
+   "versione": "1.0.6",
+   "descrizione": "La storia del club a colpo d'occhio: le ultime 20 stagioni come barre colorate con posizione, divisione, scudetti, promozioni e retrocessioni. I conti della società diventano grafici chiari e colorati: incassi, spese, saldo, stipendi, debiti e budget, ovunque compaiano nel gioco.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "23/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "643189251216_plugin03.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/643189251216_plugin03.zip",
+    "dimensione": 101375,
+    "sha256": "64318925121616351cb684af0690d3a062a103ebc4e40078e2ea1a8c05e4acf0"
+   },
+   "file": {
+    "FM27 - Plugin 03 - Storia e finanze/BeppEmre-FM27-Plugin03-StoriaFinanze.dll": "090417ff2b4a2103dbacfad63f77a4097bcc162159d896b64383d477ba2923fb",
+    "FM27 - Plugin 03 - Storia e finanze/plugin.json": "d71aab77d27976cb8c7eab3aeb137c4824f436e8b3dbd200859e5bafe98f10dd",
+    "FM27 - Plugin 03 - Storia e finanze/LEGGIMI.txt": "702364552016765c2d79e5ca8c86b7550255013df9c29948d45ad2f68d33891e"
+   },
+   "sorgenti": "a3d57b99193ffc3987327776b8b7408914c0649c483ed9bceb8ae02fdcfeae78",
+   "anteprime": [
+    {
+     "asset": "bd6a7f7ceff8_plugin03-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/bd6a7f7ceff8_plugin03-1.jpg",
+     "dimensione": 177776,
+     "sha256": "bd6a7f7ceff877afa1db9d59452095b2e77466bcf7c6ab432bad859430534089",
+     "sorgente_sha256": "f808eb22c439d7bf066081053e937f2c614c151ce93baef48bcc80b4af94c29b"
+    },
+    {
+     "asset": "f98c17d05c64_plugin03-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/f98c17d05c64_plugin03-2.jpg",
+     "dimensione": 210184,
+     "sha256": "f98c17d05c64a75a57a6b9f660abecbdfb41e3a46fc5bd1f07329f11877ffc7f",
+     "sorgente_sha256": "3048766522080fd87dfb4deab60ac833623f071fb21483d25a34d648330e9538"
+    },
+    {
+     "asset": "8fb97bf34ef2_plugin03-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/8fb97bf34ef2_plugin03-3.jpg",
+     "dimensione": 136597,
+     "sha256": "8fb97bf34ef244dbdfc14cc1a7dd14c636e27aac4bf4a6a062d75be32c41c8ff",
+     "sorgente_sha256": "a29ee0719fb255ecee33185a883af8fb9a6b9396b3296ab3c4578def56494f6a"
+    },
+    {
+     "asset": "3e39b738b560_plugin03-4.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/3e39b738b560_plugin03-4.jpg",
+     "dimensione": 109445,
+     "sha256": "3e39b738b560a93e32d03407b05917f4d9a225ec0ce7286a306b8ecf1863020f",
+     "sorgente_sha256": "6a2334316934b7a9134b6acf0a65adc6679ec91ed86c7b27b86637b720657d28"
+    }
+   ]
+  },
+  {
+   "id": "plugin04",
+   "numero": 4,
+   "nome": "Amichevoli multiple e filtro calendari",
+   "cartella": "FM27 - Plugin 04 - Filtro calendari",
+   "versione": "2.0.3",
+   "descrizione": "In Calendario > Incontri, una pillola per ogni competizione: un clic mostra solo quelle partite, altri clic si aggiungono. In \"Organizza amichevole\" puoi mettere in lista fino a 5 amichevoli e inviarle tutte insieme.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "6588d4b408da_plugin04.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/6588d4b408da_plugin04.zip",
+    "dimensione": 85501,
+    "sha256": "6588d4b408da4a2c47572d739f8282902b2f4dcf374f81f1bd84971b2e8616f6"
+   },
+   "file": {
+    "FM27 - Plugin 04 - Filtro calendari/BeppEmre-FM27-Plugin04-FiltroCalendari.dll": "27bd435fe2dba225ca23d5ea29ea957764520ba046e13bb1bda2fc60a3364bbc",
+    "FM27 - Plugin 04 - Filtro calendari/plugin.json": "1957cc1e829359646f7d70a3daae335d977c087b7c3aa565a345f5bb79153f11",
+    "FM27 - Plugin 04 - Filtro calendari/LEGGIMI.txt": "db4fa723c229a0ee969328f8b633f5afe2f837c406cccd7318d90883da96de9c"
+   },
+   "sorgenti": "6f42e66c2e73b765002180c0b237f81ad30f679a89eeb3234d4e92b34fb435f2",
+   "anteprime": [
+    {
+     "asset": "1f8b9641477d_plugin04-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/1f8b9641477d_plugin04-1.jpg",
+     "dimensione": 210914,
+     "sha256": "1f8b9641477da3504af21708315bc18414aa1908eafb15f39486eab97f1f90e7",
+     "sorgente_sha256": "29aa3903568e187442d6f86f1b124ad49bfe900216ba995ae7dd67ff1ddc15d4"
+    },
+    {
+     "asset": "2cd813ea57b0_plugin04-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/2cd813ea57b0_plugin04-2.jpg",
+     "dimensione": 144658,
+     "sha256": "2cd813ea57b08e1d9c9983d1e1c2c9627db29e55fc03b21f08ba07224414fcd8",
+     "sorgente_sha256": "f4021542a1418320f4c6dc6c256006af70fdccb424c1f45a8907cbfe16aa38dc"
+    }
+   ]
+  },
+  {
+   "id": "plugin05",
+   "numero": 5,
+   "nome": "Pre-Match e distinte ufficiali",
+   "cartella": "FM27 - Plugin 05 - Distinte pre-partita",
+   "versione": "1.2.9",
+   "descrizione": "Il prima della partita come in TV: la card del Matchday con lo stadio vero, la sfida in panchina e la scritta DERBY nei derby, le distinte con i reparti che entrano uno dopo l'altro e la classifica con le due squadre in campo oggi.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "645ad57de358_plugin05.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/645ad57de358_plugin05.zip",
+    "dimensione": 3314186,
+    "sha256": "645ad57de358933b3cb940a3b95a3649bbf3bf4154c9d89bfb28d7d45123a519"
+   },
+   "file": {
+    "FM27 - Plugin 05 - Distinte pre-partita/BeppEmre-FM27-Plugin05-Distinte.dll": "33bcc90d8c015a5c1503448ff796928db9070e336fac96b16ef039844d391e55",
+    "FM27 - Plugin 05 - Distinte pre-partita/plugin.json": "8550cfc3eab8f4c0fc70f5dcba993bcbec3742f95e59af62d975f1208df4c59a",
+    "FM27 - Plugin 05 - Distinte pre-partita/LEGGIMI.txt": "68bf436260a8a75a1e380283715a1c0ff029c975f8eca988befdbb4339641233"
+   },
+   "sorgenti": "94e8c8250276fa52fb363231ec60df808abe4c068cbfc9111cea051eb19886d1",
+   "anteprime": [
+    {
+     "asset": "a7ec38217782_plugin05-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a7ec38217782_plugin05-1.jpg",
+     "dimensione": 167269,
+     "sha256": "a7ec38217782d59393b7dae810705cf98a4c777f694ddbedb516bd6bd60056b7",
+     "sorgente_sha256": "1eae7c9afaf6600c9ef322f291fce0374fd19a5da44efe614884eb48d032a679"
+    },
+    {
+     "asset": "eff1813e4204_plugin05-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/eff1813e4204_plugin05-2.jpg",
+     "dimensione": 213617,
+     "sha256": "eff1813e4204c7230af6180b8f79dedd2c6835994b4429573bd310777619f4af",
+     "sorgente_sha256": "f16153570050f9c5b5b02bd04c81d305a2b057b66d96c865c3105062bf767fb3"
+    },
+    {
+     "asset": "a4dd07d5b42d_plugin05-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a4dd07d5b42d_plugin05-3.jpg",
+     "dimensione": 168143,
+     "sha256": "a4dd07d5b42df7e1aaeff181a7423e02bc868b6b0c16af7e39d94549ec45fc27",
+     "sorgente_sha256": "4a90eb0a6bc83b0112827788385d1a14772780aa43ed95024b7f1450577fe3da"
+    },
+    {
+     "asset": "e4ce173ccf68_plugin05-4.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/e4ce173ccf68_plugin05-4.jpg",
+     "dimensione": 202852,
+     "sha256": "e4ce173ccf688c32016f01dedc2de7bccc006d007dec243ee5b7e4cbfdc475ba",
+     "sorgente_sha256": "c35f3cb19e023745103d243e292e12e780810bfc29af115d1a2fec16c07b3ecb"
+    },
+    {
+     "asset": "a694583847f1_plugin05-5.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a694583847f1_plugin05-5.jpg",
+     "dimensione": 340296,
+     "sha256": "a694583847f1432a834dc7b1706c38f0a13d4a393b027f7b414a2fcbab309e69",
+     "sorgente_sha256": "44bb7c462a972807718857a95dee8f218a984a14ccd47509075591c88d3d5871"
+    },
+    {
+     "asset": "8fde615dff74_plugin05-6.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/8fde615dff74_plugin05-6.jpg",
+     "dimensione": 428832,
+     "sha256": "8fde615dff7420166e6f2c235cfcc0be09a09bee617c4073e5b1613b8f6c5dd1",
+     "sorgente_sha256": "898ccab5f550e20f3ee24318fc0afe6f0fa116323e75a59ff181d4dd39503812"
+    },
+    {
+     "asset": "e1b9cb5ffe9d_plugin05-7.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/e1b9cb5ffe9d_plugin05-7.jpg",
+     "dimensione": 338602,
+     "sha256": "e1b9cb5ffe9d1f8a1bd802632f675c2e23e3bd047603439d2ceade5b6340ec93",
+     "sorgente_sha256": "5f584c0c7e21ec94ef95540476593c1f730d5daf612494a410ff501ee87c443f"
+    }
+   ]
+  },
+  {
+   "id": "plugin06",
+   "numero": 6,
+   "nome": "Scoreboard, Popup goals, Var animato e dirette Live",
+   "cartella": "FM27 - Plugin 06 - Scoreboard e popup",
+   "versione": "1.1.8",
+   "descrizione": "La partita come in TV: il tabellone a due tessere con tempo, sigle, colori sociali, barra dei minuti, recupero e VAR; poi i popup di gol, cartellini, cambi e VAR, la diretta gol dagli altri campi e la classifica live.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "fdb83bf9f88d_plugin06.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/fdb83bf9f88d_plugin06.zip",
+    "dimensione": 18433860,
+    "sha256": "fdb83bf9f88dd229b217abc8b534059542f49bdccbe18595e4bc496196a11ac6"
+   },
+   "file": {
+    "FM27 - Plugin 06 - Scoreboard e popup/BeppEmre-FM27-Plugin06-Scoreboard.dll": "5d4e67f3002d9d11388bb29ddd25ef4cb74de299ddf7ee2582f91d76c3f5c005",
+    "FM27 - Plugin 06 - Scoreboard e popup/plugin.json": "6d978ab0540729c14975224e465645445519f8068fe74a5b9eabbbc3b9cf55df",
+    "FM27 - Plugin 06 - Scoreboard e popup/LEGGIMI.txt": "4e0eb6cd10459647e08ad94a24c6cbf8281b7863edbede4a0351a6b66f991d0a"
+   },
+   "sorgenti": "928fe35782ee3a2aab343813c7006e146e260f80ede0cc655e6fc859bdc73d17",
+   "anteprime": [
+    {
+     "asset": "64fc322c0a87_plugin06-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/64fc322c0a87_plugin06-1.jpg",
+     "dimensione": 356079,
+     "sha256": "64fc322c0a8789cbd0d46f55436b93c7249f91e36ada751b01de9ca49d54712c",
+     "sorgente_sha256": "34b52cb5cdcc2a3a0273bbb22cc9c53d4a15183ce0d128790f04dd4d1a3cf3e8"
+    },
+    {
+     "asset": "aab7f7811a0f_plugin06-5.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/aab7f7811a0f_plugin06-5.jpg",
+     "dimensione": 356561,
+     "sha256": "aab7f7811a0fd47935372fd8945325e3f74e3a678849b275eb83f02a86b1070d",
+     "sorgente_sha256": "968cbfb072b2dee7a2691b364d12d0594e9fa3341c33f092eb64730a115cbd9d"
+    },
+    {
+     "asset": "3ea10a95abca_plugin06-4.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/3ea10a95abca_plugin06-4.jpg",
+     "dimensione": 348132,
+     "sha256": "3ea10a95abca5a3dbc3291e90c317be86c3a1805fd11736821d8e9f708b48c5a",
+     "sorgente_sha256": "83f4484223e64d9c95b61f07cd6bb1b74bd1d0eacf621c2875f4806fb0ac1538"
+    },
+    {
+     "asset": "cf87fc7afdc3_plugin06-6.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/cf87fc7afdc3_plugin06-6.jpg",
+     "dimensione": 267938,
+     "sha256": "cf87fc7afdc3e394e52dfe65e1912c43766910ece75e6efb56c547e06ef6cf3a",
+     "sorgente_sha256": "f9e224e0b517bec79db3891344ac1e741934bc7a2cf3205440d70b2a611caafc"
+    },
+    {
+     "asset": "a08160343646_plugin06-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a08160343646_plugin06-1.jpg",
+     "dimensione": 309021,
+     "sha256": "a081603436468ab051c5fceebbccf8e68111a882b3428dd98c485d8c79ef6459",
+     "sorgente_sha256": "535e0dba894b5e95e7f74419f565c885c95799ca4daabbe22397469b037e87b5"
+    },
+    {
+     "asset": "d4e14924c0b3_plugin06-7.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d4e14924c0b3_plugin06-7.jpg",
+     "dimensione": 328013,
+     "sha256": "d4e14924c0b38e50790f67eb7250796be3b9b762408e586d8b57797c1b3a8893",
+     "sorgente_sha256": "4ce46ee4ebabf8483383796ea1195fddb723d27eee2e500cf2470def2e0a710e"
+    },
+    {
+     "asset": "a8b07133221c_plugin06-8.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/a8b07133221c_plugin06-8.jpg",
+     "dimensione": 329551,
+     "sha256": "a8b07133221cc15340a2511112d90c105858fbf24b46edf3300ad957b88ae2a5",
+     "sorgente_sha256": "5a64a154d1cb9817a5b1577c73f6db1f602e31d8dcf4b72e9c8fe81dd4398aef"
+    },
+    {
+     "asset": "912cd070521f_plugin06-7.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/912cd070521f_plugin06-7.jpg",
+     "dimensione": 206429,
+     "sha256": "912cd070521f6b441628c3d34aed1374b2e25e2c87910c247d744bf411357dba",
+     "sorgente_sha256": "d824f525abf5e4bad2230afd9dfa945469d6d67c9917336de0d5a3ed2012718a"
+    },
+    {
+     "asset": "48cabe8dabb4_plugin06-9.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/48cabe8dabb4_plugin06-9.jpg",
+     "dimensione": 332174,
+     "sha256": "48cabe8dabb4852cdaa7db8985ad87f7d00af005676bc019e47cae3871f2caa9",
+     "sorgente_sha256": "535064044d75a7a7d4c45f7edff0c205509f78c266a61b752665fe121ab5c38b"
+    }
+   ]
+  },
+  {
+   "id": "plugin07",
+   "numero": 7,
+   "nome": "Reti colorate",
+   "cartella": "FM27 - Plugin 07 - Reti delle porte",
+   "versione": "1.0.4",
+   "descrizione": "Reti delle porte vere, a maglia esagonale: in campionato i colori della squadra di casa con una trama diversa a ogni partita, nelle coppe nazionali la bandiera, nelle coppe europee le sfumature della coppa.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "23/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "2e3f8d560b8b_plugin07.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/2e3f8d560b8b_plugin07.zip",
+    "dimensione": 53627,
+    "sha256": "2e3f8d560b8bcbb08fffcd863c3e23363b39cf47e1f5c92ae38ab3b40ecd3cef"
+   },
+   "file": {
+    "FM27 - Plugin 07 - Reti delle porte/BeppEmre-FM27-Plugin07-Reti.dll": "aaa9cc98fbc569762cbbeebe8ccbac33f4533181306e4d67e0b8a5d304b6ae4f",
+    "FM27 - Plugin 07 - Reti delle porte/plugin.json": "193e34e92d0ab61618e576d13d1db089363096250fb6a636dc3cef386f21ff15",
+    "FM27 - Plugin 07 - Reti delle porte/LEGGIMI.txt": "def080d029c5f5e8056daf7996aa09eec8a4a94c3792d1f8a0a59e1d4a637273"
+   },
+   "sorgenti": "a3ff588ef7fb6dfe624c49ada665721d3a6af297740ba904427ca9e208aad8ef",
+   "anteprime": [
+    {
+     "asset": "0dad2e8e2750_plugin07-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/0dad2e8e2750_plugin07-1.jpg",
+     "dimensione": 326097,
+     "sha256": "0dad2e8e2750b1e387941c0dd39746755a2aa64fa1a1ba7f7b43c1b4aaea701c",
+     "sorgente_sha256": "49908f2ab9bb56850143b7ac51a484d8a8fcb9395ae2a79779d2213d8a323c5c"
+    }
+   ]
+  },
+  {
+   "id": "plugin08",
+   "numero": 8,
+   "nome": "Popup pressione e cambio modulo",
+   "cartella": "FM27 - Plugin 08 - Allarme pressione",
+   "versione": "1.0.14",
+   "descrizione": "Quando l'avversario ti sta schiacciando davvero, in partita esce una striscia con ATTENZIONE e la barra del dominio calcolata sui dati veri degli ultimi 10 minuti. Ti avvisa anche quando ti aggredisce alto (PRESSING ALTO, con il nostro PPDA) e quando cambia atteggiamento o modulo.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "648f4ee08fed_plugin08.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/648f4ee08fed_plugin08.zip",
+    "dimensione": 190198,
+    "sha256": "648f4ee08fed3d53667604be769e8cc750a80085c7d99bce038a41b49c67df17"
+   },
+   "file": {
+    "FM27 - Plugin 08 - Allarme pressione/BeppEmre-FM27-Plugin08-AllarmePressione.dll": "ed52123825826b0469f8b8ee37c7dd44cc17d25b5d1366c2aa2b3b4800349332",
+    "FM27 - Plugin 08 - Allarme pressione/plugin.json": "610d97a65688f64bf5f2c5c8dea68abe0ea09cee0d317c84b7743e4f4f5bbf09",
+    "FM27 - Plugin 08 - Allarme pressione/LEGGIMI.txt": "0a1ccf4822bb471d58c7d4981bfd475a30aa5766533e7d015e4f668c3beff280"
+   },
+   "sorgenti": "b239b13c1f7fc02302a4aba0180d715c0733beab8c428eeba8d2ed8b71aa0ec6",
+   "anteprime": [
+    {
+     "asset": "d8c841edcd5a_plugin08-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d8c841edcd5a_plugin08-1.jpg",
+     "dimensione": 324937,
+     "sha256": "d8c841edcd5a9a1c0cb4b130e7cf1b31a53f0f06d4177988e824d4fa5d128fe1",
+     "sorgente_sha256": "fea5707b0cd47379d42e36501b13ff968f2f60736bf1d01c591c9f1479c6b31a"
+    },
+    {
+     "asset": "c67045a6f5f5_plugin08-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/c67045a6f5f5_plugin08-2.jpg",
+     "dimensione": 318860,
+     "sha256": "c67045a6f5f5e0234995ed88ac860addcbf71a1096fb43fcbf18d5fa239e6752",
+     "sorgente_sha256": "441adec6cfd20f00bc9fc560b7924a6a3621304ca9182eb0272fa6c46e8847c4"
+    },
+    {
+     "asset": "d85cb24223ff_plugin08-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d85cb24223ff_plugin08-3.jpg",
+     "dimensione": 315269,
+     "sha256": "d85cb24223ff9da5fd3dfc79f3a7498782b9eec871ff8b2cfd8529b5b489594c",
+     "sorgente_sha256": "0dd835ca81c1c8bfebdeabd6ae017a009dd54a889221f6223f263d89d922e1a7"
+    }
+   ]
+  },
+  {
+   "id": "plugin09",
+   "numero": 9,
+   "nome": "Confronta giocatori con filtro dei ruoli",
+   "cartella": "FM27 - Plugin 09 - Ruoli e attributi chiave",
+   "versione": "1.0.1",
+   "descrizione": "In Confronta giocatori: scegli posizione, fase e ruolo e gli attributi chiave del ruolo (Fondamentali e Preferibili, calcolati dal gioco) si evidenziano per tutti e due i giocatori; differenze +N, statistiche del confronto e giocatore piu' adatto al ruolo.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "23/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "3e6d264c1ff8_plugin09.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/3e6d264c1ff8_plugin09.zip",
+    "dimensione": 82575,
+    "sha256": "3e6d264c1ff8ca76a227e5c1f69acdea31e4f0742b4fb884ad252c83944b7b22"
+   },
+   "file": {
+    "FM27 - Plugin 09 - Ruoli e attributi chiave/BeppEmre-FM27-Plugin09-RuoliAttributi.dll": "8797c244b06913468f97f6aff100cc110624650c10eb76ad00a563d91a01b986",
+    "FM27 - Plugin 09 - Ruoli e attributi chiave/plugin.json": "4820320371366551c93fa237b7adbb0d0da0f83187b83a58e68c2dca4d1c292f",
+    "FM27 - Plugin 09 - Ruoli e attributi chiave/LEGGIMI.txt": "811f95dc1a4c95a63670bd55f436d37fd4ad3922dc90cbbf30c2f4320f38aa4e"
+   },
+   "sorgenti": "e203ebf232580f7345965100099233b3e1736fed232664aa87120761d2c3f170",
+   "anteprime": [
+    {
+     "asset": "86c4a07c8289_plugin09-1.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/86c4a07c8289_plugin09-1.jpg",
+     "dimensione": 189099,
+     "sha256": "86c4a07c8289b0587eba8ab12f99a89435cb238f205f661d613868518d7fc252",
+     "sorgente_sha256": "ab14c7e5e8077e7ca24db73276569d2be40e663018ae2a7169c881ff9d20c500"
+    },
+    {
+     "asset": "957becc99814_plugin09-3.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/957becc99814_plugin09-3.jpg",
+     "dimensione": 199843,
+     "sha256": "957becc9981445218be0a9110c13fcdb9bef15c9cf3ac2ef71e169697b87c5e9",
+     "sorgente_sha256": "f4d0bfca920ffcf615e0c812dd6374a1c8e4353b78627f811cc31148ed2846f2"
+    },
+    {
+     "asset": "49da940328c7_plugin09-2.jpg",
+     "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/49da940328c7_plugin09-2.jpg",
+     "dimensione": 199056,
+     "sha256": "49da940328c7499c7898f27c18c07e345b1d9c8cf120939cfcc8435df8b23728",
+     "sorgente_sha256": "37ef0f697f488c39d5d646a9548f1e36a8a222869f4aafe5e9e9bb60c53937ba"
+    }
+   ]
+  },
+  {
+   "id": "plugin10",
+   "numero": 10,
+   "nome": "Loda e Critica",
+   "cartella": "FM27 - Plugin 10 - Loda e Critica",
+   "versione": "1.0.0",
+   "descrizione": "In Allenamento individuale, vista Riassunto: loda o critica in un colpo i giocatori spuntati, oppure chi ha il voto dell'allenamento da una soglia in su o sotto. Prima mostra l'elenco da confermare, poi usa il dialogo vero del gioco giocatore per giocatore; chi è già stato lodato/criticato o non ha il voto viene saltato e spiegato nel riepilogo.",
+   "facoltativo": true,
+   "automatico": false,
+   "data": "24/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "14c7a374b3d3_plugin10.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/14c7a374b3d3_plugin10.zip",
+    "dimensione": 65570,
+    "sha256": "14c7a374b3d3c0b54c398078cd906e0f0bcdd61971ce8517033630091aeab889"
+   },
+   "file": {
+    "FM27 - Plugin 10 - Loda e Critica/BeppEmre-FM27-Plugin10-LodaCritica.dll": "31fc43472d9766940cf4c71186aac463854e53475f6c54232359bea86eb79244",
+    "FM27 - Plugin 10 - Loda e Critica/plugin.json": "72ee4f08c33beef71862638cc0fd6716df597fe6cef6dcc0ee9eca74a60215d8",
+    "FM27 - Plugin 10 - Loda e Critica/LEGGIMI.txt": "0c7dbf2f78075b3b097c43b464fc424971328203808d8885eb445854351d95e6"
+   },
+   "sorgenti": "6d522492074a4500a31b29df8c3a8bc2c91539e941fc36cbf52ed5fe999cb890",
+   "anteprime": []
+  },
+  {
+   "id": "auto99",
+   "numero": 99,
+   "nome": "Griglia",
+   "cartella": "FM27 - Plugin 99 - Griglia",
+   "versione": "1.0.0",
+   "descrizione": "",
+   "facoltativo": false,
+   "automatico": true,
+   "data": "21/11/2026",
+   "gioco": {
+    "steamBuild": "26797085"
+   },
+   "pacchetto": {
+    "asset": "d28718a3bd8a_auto99.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/d28718a3bd8a_auto99.zip",
+    "dimensione": 10339,
+    "sha256": "d28718a3bd8aae48f0bb626152048bd6c4dc8e7270a8e70ff3dacbd93294d2af"
+   },
+   "file": {
+    "FM27 - Plugin 99 - Griglia/BeppEmre-FM27-Plugin99-Griglia.dll": "f73c6ea040e8a8956daaadb11ee3478376c4d865003c6974e96ba8d525f1211e",
+    "FM27 - Plugin 99 - Griglia/plugin.json": "318c475da25f6063e3a0a5fba33b650d5b70472e799b8aeb37cc4ee463f5b0ad",
+    "FM27 - Plugin 99 - Griglia/LEGGIMI.txt": "e955616098bee91e4c77feedfd9235674f39e147e99db9a1e1e0b69ca34930b5"
+   },
+   "sorgenti": "e5d6b75a3ed33801477e5e1833b00a7e612fa016138b649663994f8b7d9e529c",
+   "anteprime": []
+  }
+ ]
+}
