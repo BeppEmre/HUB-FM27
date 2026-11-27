@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "aggiornato": "24/11/2026",
+ "aggiornato": "27/11/2026",
  "cartella": "BepInEx/plugins/BeppEmre",
  "comune": {
   "versione": "2026.11.24",
@@ -249,26 +249,26 @@
    "numero": 4,
    "nome": "Amichevoli multiple e filtro calendari",
    "cartella": "FM27 - Plugin 04 - Filtro calendari",
-   "versione": "2.0.3",
+   "versione": "2.0.4",
    "descrizione": "In Calendario > Incontri, una pillola per ogni competizione: un clic mostra solo quelle partite, altri clic si aggiungono. In \"Organizza amichevole\" puoi mettere in lista fino a 5 amichevoli e inviarle tutte insieme.",
    "facoltativo": true,
    "automatico": false,
-   "data": "24/11/2026",
+   "data": "27/11/2026",
    "gioco": {
     "steamBuild": "26797085"
    },
    "pacchetto": {
-    "asset": "6588d4b408da_plugin04.zip",
-    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/6588d4b408da_plugin04.zip",
-    "dimensione": 85501,
-    "sha256": "6588d4b408da4a2c47572d739f8282902b2f4dcf374f81f1bd84971b2e8616f6"
+    "asset": "70e06659dad1_plugin04.zip",
+    "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/plugin/70e06659dad1_plugin04.zip",
+    "dimensione": 85709,
+    "sha256": "70e06659dad106a92170883ce84b482f381c0ededa9de4c97d41f096aa20b547"
    },
    "file": {
-    "FM27 - Plugin 04 - Filtro calendari/BeppEmre-FM27-Plugin04-FiltroCalendari.dll": "27bd435fe2dba225ca23d5ea29ea957764520ba046e13bb1bda2fc60a3364bbc",
-    "FM27 - Plugin 04 - Filtro calendari/plugin.json": "1957cc1e829359646f7d70a3daae335d977c087b7c3aa565a345f5bb79153f11",
-    "FM27 - Plugin 04 - Filtro calendari/LEGGIMI.txt": "db4fa723c229a0ee969328f8b633f5afe2f837c406cccd7318d90883da96de9c"
+    "FM27 - Plugin 04 - Filtro calendari/BeppEmre-FM27-Plugin04-FiltroCalendari.dll": "d1a38a2c936d7613142d2a3e3fa81d595665b0de37f701d8873e34f47a17b703",
+    "FM27 - Plugin 04 - Filtro calendari/plugin.json": "ef28fa57af3a8fa255de3408403849c458efe44683da83351335d9d3e57c34b6",
+    "FM27 - Plugin 04 - Filtro calendari/LEGGIMI.txt": "077b2ce8b4fed39a7c6f34ca61c0942f01b7be2932336622614e774f8c5ec629"
    },
-   "sorgenti": "6f42e66c2e73b765002180c0b237f81ad30f679a89eeb3234d4e92b34fb435f2",
+   "sorgenti": "0d5473b8754fa11443f9f1dcba014d583c9aa28bd72ea64f131a4fff1a64c528",
    "anteprime": [
     {
      "asset": "1f8b9641477d_plugin04-1.jpg",
