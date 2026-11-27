@@ -1,8 +1,8 @@
 {
  "formato": 1,
  "skin": "BeppEmre Skin V 2.0",
- "versione": "3.3",
- "data": "24/11/2026",
+ "versione": "3.4",
+ "data": "27/11/2026",
  "gioco": {
   "versione": "27.1.1",
   "steamBuild": "26797085"
@@ -108,24 +108,24 @@
   },
   {
    "nome": "ui-styles_assets_default.bundle",
-   "dimensione": 10600334,
-   "sha256": "c2bc189236adb08ee2fab24204cfa0bf8f761a714f3c6fa6456893cc8b80dc0b",
-   "asset": "c2bc189236ad_ui-styles_assets_default.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c2bc189236ad_ui-styles_assets_default.bundle"
+   "dimensione": 10603362,
+   "sha256": "21e87539550cd6c544dc3d4d41b2b732ca35a143189047ab7118d2858fca0945",
+   "asset": "21e87539550c_ui-styles_assets_default.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/21e87539550c_ui-styles_assets_default.bundle"
   },
   {
    "nome": "ui-tablefactories_assets_all.bundle",
-   "dimensione": 188307,
-   "sha256": "200db43afd8ce5304be5470315cd460fb9bdc2ece9bc00b77b0e45149cee170e",
-   "asset": "200db43afd8c_ui-tablefactories_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/200db43afd8c_ui-tablefactories_assets_all.bundle"
+   "dimensione": 188293,
+   "sha256": "c1d9a8a28dba6dacd1a1dfd2d2a73587321704da69a8ef109bd1d0f73eb074c5",
+   "asset": "c1d9a8a28dba_ui-tablefactories_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/c1d9a8a28dba_ui-tablefactories_assets_all.bundle"
   },
   {
    "nome": "ui-tableviews_assets_all.bundle",
-   "dimensione": 364110,
-   "sha256": "59a810de69151ddb5273bfa2810f00b54c232be271115e17eca72850962c4269",
-   "asset": "59a810de6915_ui-tableviews_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/59a810de6915_ui-tableviews_assets_all.bundle"
+   "dimensione": 364111,
+   "sha256": "9cf1db019d592c881fca63ccd5a47359d3bebef2181b92e26fe65b2bf35ddb38",
+   "asset": "9cf1db019d59_ui-tableviews_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/9cf1db019d59_ui-tableviews_assets_all.bundle"
   },
   {
    "nome": "ui-textures_assets_all.bundle",
@@ -136,17 +136,17 @@
   },
   {
    "nome": "ui-tileslayouts_assets_all.bundle",
-   "dimensione": 942769,
-   "sha256": "31b339986f239d7825c0a4753157323774db17a400ce48ba84eba9e564437b8f",
-   "asset": "31b339986f23_ui-tileslayouts_assets_all.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/31b339986f23_ui-tileslayouts_assets_all.bundle"
+   "dimensione": 942768,
+   "sha256": "9feb0f4506cb9a0e875367b0c661352f974c8583bf21d63b47440c1e5dc16162",
+   "asset": "9feb0f4506cb_ui-tileslayouts_assets_all.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/9feb0f4506cb_ui-tileslayouts_assets_all.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "dimensione": 9536509,
-   "sha256": "eb5d56541cf5748f6de2e0c82a0f1a6a092fed5c254c720ab979cf13a2f35c71",
-   "asset": "eb5d56541cf5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
-   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/eb5d56541cf5_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
+   "dimensione": 9536374,
+   "sha256": "d095f35c3d8cd5845410b8747c8051a8048ff7b66b5a332829055e5c8a222d49",
+   "asset": "d095f35c3d8c_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle",
+   "url": "https://github.com/BeppEmre/HUB-FM27/releases/download/skin/d095f35c3d8c_ui-visualtreeassets_assets_gameworldvisualtreeassetpreload.bundle"
   },
   {
    "nome": "ui-visualtreeassets_assets_globalvisualtreeassetpreload.bundle",
